@@ -17,3 +17,5 @@ Select product_name as Item_name ,product_price as item_price from Products;
 
 
 Select Distinct category from Products ;
+
+Select * from Products;
