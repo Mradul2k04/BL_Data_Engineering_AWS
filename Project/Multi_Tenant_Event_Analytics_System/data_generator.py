@@ -79,7 +79,7 @@ with open(events, mode='w', newline='', encoding='utf-8') as file:
 
         random_tenant_num = random.randint(1, 200)
         tenant_id = f"TNT-{random_tenant_num:04d}"
-        random_user_num = random.randint(1, 500)
+        random_user_num = random.randint(1, 200)
         user_id = f"USR-{random_user_num:05d}"
 
         random_days = random.randint(0, 7)
