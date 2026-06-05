@@ -1,0 +1,1 @@
+CREATE DATABASE Learning_Management_System;
