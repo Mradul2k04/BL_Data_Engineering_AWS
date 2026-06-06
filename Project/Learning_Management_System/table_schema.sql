@@ -1,6 +1,6 @@
 CREATE TABLE users(
 user_id varchar(10) not null Primary key CHECK (user_id ~ '^USR-[0-9]{4}$'),
-user_name varchar(20) not null ,
+user_name varchar(50) not null ,
 user_role varchar(10) not null default 'Student',
 user_email varchar(30) not null unique,
 user_phone_number bigint not null unique
@@ -8,8 +8,8 @@ user_phone_number bigint not null unique
 
 CREATE TABLE courses(
 course_id varchar(10) not null unique Primary key CHECK (course_id ~'^CORS-[0-9]{4}$'),
-course_description varchar(50) not null, 
-course_title varchar(30) not null 
+course_description text not null, 
+course_title varchar(100) not null 
 );
 
 CREATE TABLE lessons(
@@ -20,10 +20,10 @@ lesson_title VARCHAR(100) NOT NULL
 );
 
 CREATE TABLE enrollments(
-enrollment_id VARCHAR(10) NOT NULL PRIMARY KEY CHECK(enrollment_id ~ '^	ERL-[0-9]{4}$'),
+enrollment_id VARCHAR(10) NOT NULL PRIMARY KEY CHECK(enrollment_id ~ '^ERL-[0-9]{4}$'),
 user_id VARCHAR(10) NOT NULL REFERENCES users(user_id),
 course_id VARCHAR(10) NOT NULL REFERENCES courses(course_id),
-enrollment_date TIMESTAMP NOT NULL default NOW()
+enrollment_date TIMESTAMP NOT NULL
 );
 
 CREATE TABLE user_activity(
@@ -46,3 +46,5 @@ user_id VARCHAR(10) NOT NULL REFERENCES users(user_id),
 submission_date DATE NOT NULL,
 score_obtained INT not null default 0
 );
+
+select * from users;
