@@ -9,7 +9,7 @@ fake=Faker()
 num_records=200
 
 #user file generaton
-user_file_path= r"Project\Learning_Management_System\user_data.csv"
+user_file_path= r"Project\Learning_Management_System\data_csv_files\user_data.csv"
 headers=["user_id","user_name","user_role","user_email","user_phone_number"]
 roles=["Admin","Student"]
 
@@ -33,7 +33,7 @@ with open (user_file_path,"w",newline="",encoding="utf-8") as f:
         ])
         
 #course file generaton
-course_file_path=r"Project\Learning_Management_System\course_data.csv"
+course_file_path=r"Project\Learning_Management_System\data_csv_files\course_data.csv"
 headers=["course_id","course_description","course_title"]
 prefix=["Intoduction to","Advance","Foundation of","Masterclass in","Applied"]
 topics=['Data Analytics', 'Full-Stack Development', 'Cloud Architecture', 'Cybersecurity', 'Machine Learning']   
@@ -54,7 +54,7 @@ with open(course_file_path,"w",newline="",encoding="utf-8") as f:
         ])
         
 #lessons file generation
-lessons_file_path=r"Project\Learning_Management_System\lessons_data.csv"
+lessons_file_path=r"Project\Learning_Management_System\data_csv_files\lessons_data.csv"
 headers=["lesson_id","course_id","lesson_content","lesson_title"]
 verbs=['Getting Started with', 'Understanding', 'Deep Dive into', 'Mastering', 'Debugging']
 nouns = ['Arrays & Objects', 'Git Workflows', 'REST APIs', 'SQL Joins', 'State Management']
@@ -77,7 +77,7 @@ with open(lessons_file_path,"w",newline="",encoding="utf-8") as f:
                lesson_title
            ])
 #enrollments file generation
-enrollment_file_path=r"Project\Learning_Management_System\enrollments_data.csv"
+enrollment_file_path=r"Project\Learning_Management_System\data_csv_files\enrollments_data.csv"
 headers=["enrollment_id","user_id","course_id","enrollment_date"]
 
 with open(enrollment_file_path,"w",newline="",encoding="utf-8")as f:
@@ -101,7 +101,7 @@ with open(enrollment_file_path,"w",newline="",encoding="utf-8")as f:
         ])
         
 #uer activity file generation
-user_activity_file_path=r"Project\Learning_Management_System\user_activity_data.csv"     
+user_activity_file_path=r"Project\Learning_Management_System\data_csv_files\user_activity_data.csv"     
 headers=["activity_id","user_id","lesson_id","activity_status"]
 status=["Not Started","In Progress","Completed"]
 
@@ -126,7 +126,7 @@ with open (user_activity_file_path,"w",newline="",encoding="utf-8") as f:
         ])
         
 # assesment file generation
-assessment_file_path = r"Project\Learning_Management_System\assessments_data.csv"
+assessment_file_path = r"Project\Learning_Management_System\data_csv_files\assessments_data.csv"
 headers = ["assessment_id","course_id","max_score"]
 
 with open(assessment_file_path,"w",newline="", encoding="utf-8") as f:
@@ -146,7 +146,7 @@ with open(assessment_file_path,"w",newline="", encoding="utf-8") as f:
         ])
         
 # assessment submission file generation
-submission_file_path = r"Project\Learning_Management_System\assessments_submission_data.csv"
+submission_file_path = r"Project\Learning_Management_System\data_csv_files\assessments_submission_data.csv"
 headers = ["submission_id","assessment_id","user_id","submission_date","score_obtained"]
 
 with open(submission_file_path,"w",newline="", encoding="utf-8") as f:
