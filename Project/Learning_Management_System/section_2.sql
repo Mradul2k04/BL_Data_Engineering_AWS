@@ -28,6 +28,7 @@ limit 3;
 
 
 
+
 --List courses where lessons are frequently accessed but assessments are never attempted.
 select c.course_id,c.course_title 
 from courses c join lessons l on c.course_id=l.course_id
