@@ -1,0 +1,16 @@
+1- What is Apache Spark?
+2- Apache Spark Architecture
+3- Spark 
+4- Data Reading with Pyspark
+5- Display Schema 
+6- StructType() Schema
+7- How to select Column (SELECT)
+8- SELECT USING COL
+9- Use of ALIAS
+10- How to use of (FILTER/WHERE)
+11- Use of WithColumnRenamed
+12- How to do Type Casting
+13- How to perform Sort/orderBy
+14- Implementation of Limit
+15- How to use Drop
+16- How to Count null values
