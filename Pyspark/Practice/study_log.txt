@@ -1,16 +1,35 @@
-1- What is Apache Spark?
-2- Apache Spark Architecture
-3- Spark 
-4- Data Reading with Pyspark
-5- Display Schema 
-6- StructType() Schema
-7- How to select Column (SELECT)
-8- SELECT USING COL
-9- Use of ALIAS
-10- How to use of (FILTER/WHERE)
-11- Use of WithColumnRenamed
-12- How to do Type Casting
-13- How to perform Sort/orderBy
-14- Implementation of Limit
-15- How to use Drop
-16- How to Count null values
+Study Log (Completed)
+=====================
+
+1- Data Reading
+2- Schema
+3- StructType() Schema
+4- SELECT
+5- Normal Select
+6- SELECT USING COL
+7- ALIAS
+8- FILTER/WHERE
+9- WithColumnRenamed
+10- WithColumn
+11- Type Casting
+12- Sort/orderBy
+13- Limit
+14- Drop
+15- Count null values
+16- Drop Duplicates
+17- UNION AND UNION BY NAME
+18- String Functions
+19- Date Functions
+20- Handling Nulls
+21- SPLIT and Indexing
+22- GroupBy
+23- COLLECT_LIST
+24- PIVOT
+25- When-Otherwise
+26- JOINS
+27- WINDOW FUNCTIONS
+28- User Defined Functions (UDF)
+29- DATA WRITING
+30- PARQUET
+31- SPARK SQL
+32- CreateTempView
