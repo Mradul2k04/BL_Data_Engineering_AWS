@@ -1,1001 +1,1001 @@
 Warehouse,Product,Stock Level,Reorder Level,Supplier,Last Updated,Transport Cost
-WH-D,Hard Disk,,149,Supplier-A,2026-01-31,2020
-WH-D,Keyboard,,209,Supplier-B,2024-11-16,1520
-WH-D,Tablet,29.0,227,Supplier-Y,2025-02-22,2370
-WH-A,Printer,464.0,92,Supplier-C,2025-05-10,2770
-WH-C,Monitor,334.0,220,Supplier-X,2024-11-01,2800
-WH-D,Monitor,284.0,87,Supplier-C,2026-01-20,3020
-WH-E,Hard Disk,530.0,112,Supplier-B,2024-11-04,1900
-WH-B,Mouse,445.0,173,Supplier-X,2024-09-22,900
-WH-C,Printer,373.0,182,Supplier-Y,2026-04-17,3320
-WH-A,SSD,515.0,97,Supplier-C,2024-12-14,6550
-WH-C,Monitor,594.0,185,Supplier-B,2026-02-22,2850
-WH-C,SSD,569.0,223,Supplier-A,2025-09-25,7250
-WH-C,Tablet,387.0,110,Supplier-Y,2024-12-06,2300
-WH-D,Keyboard,63.0,90,Supplier-Z,2025-02-05,1670
-WH-B,Mouse,434.0,211,Supplier-A,2026-03-15,1150
-WH-D,Hard Disk,,182,Supplier-Y,2025-05-02,1870
-WH-C,Keyboard,73.0,154,Supplier-A,2025-03-03,1650
-WH-B,Mouse,456.0,142,Supplier-A,2025-04-27,1150
-WH-A,Mobile,557.0,217,Supplier-Z,2026-03-12,1500
-WH-D,Keyboard,312.0,242,Supplier-X,2024-10-14,1470
-WH-D,Tablet,444.0,211,Supplier-B,2025-03-20,2320
-WH-C,Printer,293.0,289,Supplier-Z,2024-10-30,3420
-WH-B,Mobile,367.0,145,Supplier-A,2026-04-29,1800
-WH-E,Hard Disk,140.0,222,Supplier-X,2024-12-14,1850
-WH-C,Hard Disk,,215,Supplier-Y,2026-01-13,1800
-WH-D,Printer,,236,Supplier-A,2024-07-04,3540
-WH-A,Tablet,176.0,109,Supplier-Y,2025-01-27,1700
-WH-C,Hard Disk,,91,Supplier-B,2024-12-25,1750
-WH-E,Monitor,24.0,288,Supplier-A,2025-09-30,3200
-WH-B,SSD,,57,Supplier-Y,2025-08-22,6750
-WH-E,Tablet,76.0,160,Supplier-Y,2024-09-18,2450
-WH-E,Tablet,586.0,61,Supplier-Z,2026-05-15,2550
-WH-A,Mobile,151.0,281,Supplier-Y,2026-05-06,1400
-WH-C,Tablet,522.0,297,Supplier-A,2025-08-29,2450
-WH-E,Router,141.0,121,Supplier-B,2026-05-04,2000
-WH-A,Printer,70.0,52,Supplier-Z,2025-01-27,2820
-WH-C,Mouse,330.0,136,Supplier-X,2025-09-24,1250
-WH-C,Printer,79.0,294,Supplier-C,2024-08-03,3370
-WH-E,Mouse,251.0,296,Supplier-Z,2026-02-21,1600
-WH-E,Keyboard,28.0,256,Supplier-B,2026-03-22,1600
-WH-A,Printer,183.0,181,Supplier-Z,2025-07-06,2820
-WH-E,Mouse,536.0,206,Supplier-A,2024-11-07,1650
-WH-E,SSD,64.0,149,Supplier-X,2025-08-07,7150
-WH-E,SSD,325.0,114,Supplier-X,2026-02-08,7150
-WH-C,Mobile,545.0,119,Supplier-Y,2024-12-22,2000
-WH-A,Router,371.0,257,Supplier-X,2025-12-21,1200
-WH-D,Hard Disk,454.0,143,Supplier-Z,2026-03-17,1970
-WH-E,Monitor,525.0,144,Supplier-A,2026-06-23,3200
-WH-E,Hard Disk,457.0,283,Supplier-C,2025-12-10,2000
-WH-C,Tablet,311.0,217,Supplier-C,2026-02-10,2350
-WH-A,Tablet,379.0,200,Supplier-X,2026-04-13,1600
-WH-C,Hard Disk,120.0,282,Supplier-C,2024-09-04,1850
-WH-E,Printer,447.0,153,Supplier-B,2024-10-09,3420
-WH-A,Laptop,,67,Supplier-B,2025-02-28,1950
-WH-E,Keyboard,137.0,270,Supplier-B,2025-10-14,1600
-WH-E,Mobile,90.0,237,Supplier-X,2025-08-31,2050
-WH-A,Printer,275.0,192,Supplier-A,2026-06-26,2870
-WH-B,Keyboard,123.0,268,Supplier-X,2025-12-11,1050
-WH-A,SSD,258.0,200,Supplier-Y,2026-04-18,6500
-WH-A,Mobile,591.0,95,Supplier-X,2025-08-10,1300
-WH-D,Keyboard,185.0,178,Supplier-A,2025-09-07,1720
-WH-E,Hard Disk,229.0,130,Supplier-B,2025-04-08,1900
-WH-D,Mobile,379.0,103,Supplier-Y,2024-09-13,2070
-WH-A,Monitor,594.0,56,Supplier-A,2026-05-15,2450
-WH-C,Laptop,334.0,146,Supplier-C,2026-05-06,2650
-WH-C,Laptop,338.0,252,Supplier-B,2025-06-07,2550
-WH-D,SSD,291.0,286,Supplier-C,2026-04-20,7220
-WH-B,SSD,77.0,278,Supplier-X,2025-11-02,6650
-WH-E,Printer,262.0,241,Supplier-B,2026-04-09,3420
-WH-E,Printer,231.0,207,Supplier-Y,2025-11-08,3470
-WH-C,Printer,150.0,92,Supplier-C,2025-10-20,3370
-WH-D,Keyboard,98.0,126,Supplier-A,2025-01-09,1720
-WH-A,Keyboard,98.0,299,Supplier-C,2025-12-04,950
-WH-C,Printer,296.0,75,Supplier-C,2025-05-15,3370
-WH-D,Laptop,263.0,143,Supplier-A,2024-08-22,2820
-WH-A,SSD,559.0,263,Supplier-B,2024-10-05,6450
-WH-C,Router,89.0,117,Supplier-X,2025-02-05,1800
-WH-B,Router,,98,Supplier-A,2026-02-13,1700
-WH-A,Laptop,556.0,256,Supplier-Z,2025-01-13,2100
-WH-C,Mobile,488.0,111,Supplier-X,2026-06-07,1900
-WH-C,Mobile,585.0,149,Supplier-X,2026-03-06,1900
-WH-E,Laptop,172.0,69,Supplier-X,2025-04-24,2650
-WH-E,SSD,,279,Supplier-C,2026-02-10,7300
-WH-E,Laptop,460.0,199,Supplier-Z,2024-09-03,2850
-WH-A,Mouse,576.0,181,Supplier-Z,2025-08-26,850
-WH-B,Tablet,422.0,132,Supplier-C,2024-07-06,2000
-WH-C,SSD,397.0,290,Supplier-C,2025-10-29,7150
-WH-E,Keyboard,591.0,265,Supplier-Y,2026-04-23,1650
-WH-A,Tablet,386.0,215,Supplier-C,2025-03-11,1750
-WH-C,Hard Disk,78.0,120,Supplier-A,2026-03-05,1950
-WH-B,Laptop,442.0,130,Supplier-A,2026-04-24,2400
-WH-B,Hard Disk,265.0,102,Supplier-C,2024-09-05,1500
-WH-B,Monitor,84.0,242,Supplier-Z,2025-09-06,2650
-WH-A,Printer,485.0,98,Supplier-Z,2026-05-11,2820
-WH-C,Keyboard,442.0,256,Supplier-A,2025-07-08,1650
-WH-A,Tablet,346.0,124,Supplier-B,2024-08-26,1650
-WH-B,Router,414.0,219,Supplier-Z,2026-01-26,1650
-WH-B,Mobile,363.0,181,Supplier-Z,2026-05-08,1750
-WH-E,Router,72.0,281,Supplier-Z,2025-08-24,2150
-WH-C,Router,51.0,151,Supplier-A,2026-04-23,2050
-WH-E,Tablet,111.0,280,Supplier-C,2026-01-14,2500
-WH-E,Hard Disk,365.0,93,Supplier-Y,2026-03-17,1950
-WH-C,Mouse,477.0,180,Supplier-C,2025-12-05,1400
-WH-A,Monitor,160.0,292,Supplier-Z,2026-03-29,2400
-WH-A,Monitor,417.0,266,Supplier-B,2024-12-23,2250
-WH-A,Mouse,123.0,291,Supplier-C,2026-05-11,800
-WH-E,Printer,236.0,297,Supplier-Y,2024-11-06,3470
-WH-B,Keyboard,549.0,158,Supplier-X,2026-05-08,1050
-WH-D,Router,265.0,57,Supplier-X,2025-07-22,1870
-WH-D,Mouse,301.0,130,Supplier-B,2026-05-27,1370
-WH-B,Keyboard,164.0,96,Supplier-X,2026-01-12,1050
-WH-A,SSD,84.0,214,Supplier-X,2025-09-09,6400
-WH-B,Hard Disk,499.0,189,Supplier-Y,2025-04-01,1450
-WH-B,Mouse,191.0,71,Supplier-B,2024-12-20,950
-WH-C,Keyboard,349.0,160,Supplier-Y,2026-04-29,1500
-WH-C,Monitor,449.0,245,Supplier-C,2025-08-02,2950
-WH-E,Printer,566.0,70,Supplier-C,2025-10-09,3520
-WH-E,Router,111.0,202,Supplier-C,2026-04-13,2100
-WH-E,Router,474.0,225,Supplier-A,2025-01-25,2200
-WH-B,SSD,500.0,129,Supplier-Y,2024-07-20,6750
-WH-A,Keyboard,,144,Supplier-Y,2025-08-29,900
-WH-D,Tablet,450.0,246,Supplier-Y,2025-07-09,2370
-WH-B,SSD,387.0,250,Supplier-C,2025-12-01,6800
-WH-A,Printer,340.0,167,Supplier-X,2026-02-18,2620
-WH-D,Mobile,,262,Supplier-X,2025-03-12,1970
-WH-B,Tablet,300.0,127,Supplier-C,2025-06-01,2000
-WH-C,Printer,87.0,212,Supplier-B,2026-05-03,3270
-WH-C,Monitor,,215,Supplier-Z,2025-09-19,3000
-WH-B,Keyboard,597.0,182,Supplier-Y,2025-01-05,1150
-WH-E,Laptop,473.0,240,Supplier-X,2025-04-28,2650
-WH-D,Keyboard,,133,Supplier-Z,2026-02-06,1670
-WH-B,Mouse,317.0,107,Supplier-A,2025-06-15,1150
-WH-D,Keyboard,192.0,136,Supplier-C,2025-09-04,1620
-WH-E,Hard Disk,395.0,201,Supplier-C,2024-12-05,2000
-WH-E,Printer,412.0,202,Supplier-A,2025-03-27,3620
-WH-C,Monitor,327.0,151,Supplier-Z,2026-04-23,3000
-WH-A,Keyboard,599.0,203,Supplier-C,2025-09-09,950
-WH-A,Router,306.0,154,Supplier-B,2025-08-02,1250
-WH-B,Router,289.0,294,Supplier-X,2025-09-12,1450
-WH-D,Monitor,130.0,90,Supplier-Z,2025-10-27,3070
-WH-D,SSD,573.0,62,Supplier-X,2025-03-25,7070
-WH-C,Laptop,430.0,272,Supplier-Y,2025-01-05,2600
-WH-E,Keyboard,174.0,63,Supplier-A,2025-12-03,1800
-WH-C,Mobile,415.0,74,Supplier-Z,2025-05-09,2100
-WH-A,Printer,313.0,207,Supplier-A,2025-06-30,2870
-WH-B,Monitor,384.0,263,Supplier-Y,2026-02-09,2550
-WH-C,Monitor,389.0,219,Supplier-Y,2026-05-03,2900
-WH-D,SSD,590.0,207,Supplier-B,2026-04-10,7120
-WH-D,Printer,,130,Supplier-A,2024-08-12,3540
-WH-D,Printer,415.0,162,Supplier-C,2026-06-30,3440
-WH-E,Tablet,393.0,266,Supplier-X,2026-03-13,2350
-WH-B,Hard Disk,,293,Supplier-B,2026-02-04,1400
-WH-E,Mobile,63.0,252,Supplier-A,2025-01-15,2300
-WH-E,Tablet,23.0,300,Supplier-C,2025-08-20,2500
-WH-C,Hard Disk,191.0,297,Supplier-B,2024-11-09,1750
-WH-A,Printer,89.0,265,Supplier-Y,2026-01-11,2720
-WH-E,Monitor,21.0,86,Supplier-C,2026-05-02,3100
-WH-A,Monitor,201.0,175,Supplier-Z,2025-08-26,2400
-WH-E,Keyboard,157.0,76,Supplier-C,2024-08-06,1700
-WH-E,Keyboard,598.0,268,Supplier-Z,2025-12-25,1750
-WH-B,Laptop,449.0,255,Supplier-B,2026-05-21,2200
-WH-A,Router,304.0,111,Supplier-Z,2024-09-07,1400
-WH-E,Laptop,246.0,204,Supplier-Y,2024-12-01,2750
-WH-E,Mobile,99.0,86,Supplier-A,2025-05-09,2300
-WH-A,Monitor,184.0,82,Supplier-X,2025-07-15,2200
-WH-D,Keyboard,209.0,214,Supplier-X,2026-05-16,1470
-WH-C,SSD,147.0,232,Supplier-X,2025-10-04,7000
-WH-B,Tablet,348.0,299,Supplier-Z,2025-01-17,2050
-WH-A,Mouse,126.0,237,Supplier-Y,2025-02-05,750
-WH-E,Mouse,107.0,196,Supplier-Y,2025-03-17,1500
-WH-A,Keyboard,274.0,271,Supplier-A,2024-11-23,1050
-WH-E,Mouse,97.0,75,Supplier-X,2025-10-29,1400
-WH-B,Laptop,485.0,147,Supplier-Z,2025-08-22,2350
-WH-A,Hard Disk,348.0,248,Supplier-Z,2026-03-02,1300
-WH-C,Router,155.0,244,Supplier-Z,2025-01-25,2000
-WH-D,SSD,529.0,177,Supplier-A,2025-06-28,7320
-WH-D,Mobile,518.0,223,Supplier-Z,2026-01-23,2170
-WH-E,SSD,426.0,256,Supplier-C,2025-08-21,7300
-WH-B,Keyboard,96.0,95,Supplier-A,2025-05-10,1300
-WH-B,Tablet,,158,Supplier-X,2025-03-29,1850
-WH-C,Keyboard,220.0,234,Supplier-Y,2025-04-17,1500
-WH-D,Router,597.0,107,Supplier-Z,2024-11-19,2070
-WH-E,Keyboard,,258,Supplier-A,2026-04-14,1800
-WH-C,Mouse,324.0,208,Supplier-A,2025-10-16,1500
-WH-C,Tablet,98.0,100,Supplier-B,2025-05-31,2250
-WH-C,Hard Disk,122.0,202,Supplier-B,2026-06-13,1750
-WH-C,Router,435.0,256,Supplier-Y,2024-11-29,1900
-WH-B,Hard Disk,,62,Supplier-Z,2026-05-14,1550
-WH-B,Laptop,277.0,236,Supplier-Y,2026-04-17,2250
-WH-E,Mobile,282.0,235,Supplier-C,2026-03-06,2200
-WH-C,Mouse,573.0,169,Supplier-A,2024-07-24,1500
-WH-A,SSD,25.0,86,Supplier-B,2024-10-15,6450
-WH-E,Monitor,,165,Supplier-Y,2025-02-05,3050
-WH-E,Router,380.0,248,Supplier-Z,2026-02-20,2150
-WH-E,Tablet,573.0,166,Supplier-A,2026-02-15,2600
-WH-A,Tablet,274.0,172,Supplier-Y,2025-11-30,1700
-WH-C,Mouse,,245,Supplier-A,2024-09-15,1500
-WH-C,Hard Disk,400.0,260,Supplier-A,2026-01-15,1950
-WH-B,Router,142.0,168,Supplier-Z,2026-01-27,1650
-WH-E,Keyboard,373.0,77,Supplier-X,2026-01-02,1550
-WH-A,Mouse,,111,Supplier-Z,2025-12-30,850
-WH-D,Tablet,,194,Supplier-X,2025-07-31,2270
-WH-A,Router,223.0,285,Supplier-X,2026-06-22,1200
-WH-A,Laptop,490.0,210,Supplier-X,2025-09-05,1900
-WH-A,Monitor,358.0,198,Supplier-C,2025-03-07,2350
-WH-B,Mouse,347.0,156,Supplier-Y,2026-05-14,1000
-WH-A,SSD,,155,Supplier-A,2024-12-21,6650
-WH-D,Tablet,151.0,121,Supplier-B,2026-04-14,2320
-WH-D,Mobile,,127,Supplier-Y,2025-02-10,2070
-WH-E,Laptop,,267,Supplier-C,2025-01-13,2800
-WH-B,Keyboard,457.0,239,Supplier-Y,2026-06-20,1150
-WH-A,Hard Disk,368.0,170,Supplier-Z,2025-03-05,1300
-WH-B,Printer,430.0,242,Supplier-C,2025-10-15,3020
-WH-D,Tablet,420.0,106,Supplier-B,2024-10-06,2320
-WH-D,Printer,510.0,189,Supplier-Z,2026-02-24,3490
-WH-D,Hard Disk,480.0,204,Supplier-X,2024-11-28,1770
-WH-E,SSD,,89,Supplier-A,2025-03-18,7400
-WH-E,Monitor,181.0,157,Supplier-A,2025-01-07,3200
-WH-D,Hard Disk,89.0,173,Supplier-X,2026-02-18,1770
-WH-C,Keyboard,325.0,217,Supplier-Z,2025-12-01,1600
-WH-A,Laptop,581.0,105,Supplier-Z,2024-12-28,2100
-WH-C,Monitor,433.0,292,Supplier-Y,2025-12-12,2900
-WH-B,Mouse,135.0,271,Supplier-X,2026-04-11,900
-WH-E,SSD,71.0,241,Supplier-X,2025-03-22,7150
-WH-E,SSD,193.0,228,Supplier-B,2024-12-11,7200
-WH-A,Monitor,594.0,179,Supplier-Y,2024-07-23,2300
-WH-B,Laptop,571.0,139,Supplier-B,2025-05-29,2200
-WH-C,Hard Disk,192.0,73,Supplier-B,2025-03-24,1750
-WH-E,Keyboard,545.0,292,Supplier-Z,2024-07-19,1750
-WH-B,Keyboard,315.0,120,Supplier-X,2025-07-18,1050
-WH-D,Hard Disk,95.0,82,Supplier-X,2025-11-23,1770
-WH-A,Laptop,521.0,214,Supplier-B,2025-01-12,1950
-WH-A,Keyboard,586.0,175,Supplier-A,2024-09-19,1050
-WH-D,Printer,92.0,111,Supplier-X,2025-06-02,3290
-WH-E,Monitor,402.0,129,Supplier-C,2025-06-17,3100
-WH-E,Tablet,582.0,218,Supplier-Y,2025-05-25,2450
-WH-C,Hard Disk,352.0,199,Supplier-C,2026-02-28,1850
-WH-B,Mouse,,88,Supplier-X,2025-01-22,900
-WH-D,Hard Disk,280.0,109,Supplier-Y,2026-01-14,1870
-WH-B,SSD,305.0,151,Supplier-Z,2024-09-17,6850
-WH-B,SSD,304.0,106,Supplier-A,2026-01-30,6900
-WH-E,Keyboard,513.0,115,Supplier-Y,2025-06-06,1650
-WH-A,Mobile,371.0,86,Supplier-C,2026-07-03,1450
-WH-A,Printer,340.0,156,Supplier-A,2025-12-26,2870
-WH-E,SSD,263.0,78,Supplier-A,2024-08-25,7400
-WH-A,Mobile,492.0,159,Supplier-C,2024-11-13,1450
-WH-A,Keyboard,454.0,222,Supplier-A,2024-11-03,1050
-WH-C,Laptop,202.0,274,Supplier-X,2024-11-30,2500
-WH-E,Tablet,408.0,157,Supplier-Y,2025-02-13,2450
-WH-E,Mobile,390.0,221,Supplier-C,2026-06-02,2200
-WH-C,Hard Disk,327.0,219,Supplier-Z,2024-12-28,1900
-WH-E,Tablet,349.0,122,Supplier-B,2024-08-04,2400
-WH-E,Monitor,317.0,103,Supplier-Y,2026-04-25,3050
-WH-E,Laptop,30.0,213,Supplier-Y,2025-05-22,2750
-WH-D,Monitor,80.0,132,Supplier-Z,2026-06-23,3070
-WH-C,Mobile,,158,Supplier-C,2025-09-20,2050
-WH-D,Router,208.0,254,Supplier-Y,2026-05-26,1970
-WH-D,Hard Disk,63.0,245,Supplier-X,2026-04-27,1770
-WH-A,Monitor,390.0,198,Supplier-A,2026-01-25,2450
-WH-B,Mouse,387.0,73,Supplier-X,2025-01-10,900
-WH-A,Printer,86.0,200,Supplier-B,2025-12-02,2670
-WH-E,SSD,,53,Supplier-A,2025-01-26,7400
-WH-D,SSD,506.0,279,Supplier-A,2025-04-17,7320
-WH-A,SSD,218.0,79,Supplier-C,2024-11-09,6550
-WH-D,Printer,167.0,168,Supplier-A,2025-08-24,3540
-WH-A,Keyboard,502.0,105,Supplier-X,2025-02-02,800
-WH-B,SSD,314.0,110,Supplier-A,2026-01-12,6900
-WH-A,Hard Disk,409.0,93,Supplier-A,2026-06-23,1350
-WH-C,Printer,,96,Supplier-Z,2026-05-12,3420
-WH-B,Monitor,132.0,196,Supplier-X,2026-02-09,2450
-WH-D,Printer,268.0,235,Supplier-X,2026-05-19,3290
-WH-C,Mobile,404.0,56,Supplier-B,2025-11-13,1950
-WH-A,Mobile,592.0,122,Supplier-B,2026-06-06,1350
-WH-C,Keyboard,106.0,133,Supplier-C,2026-05-16,1550
-WH-E,Mobile,221.0,97,Supplier-B,2024-11-01,2100
-WH-E,Monitor,,67,Supplier-C,2024-09-21,3100
-WH-D,Keyboard,129.0,148,Supplier-Y,2025-08-25,1570
-WH-D,Laptop,29.0,188,Supplier-Y,2025-01-03,2670
-WH-E,Monitor,,160,Supplier-Z,2025-11-29,3150
-WH-A,SSD,540.0,264,Supplier-A,2024-10-26,6650
-WH-B,Router,285.0,183,Supplier-Z,2024-12-14,1650
-WH-E,Laptop,595.0,258,Supplier-Z,2024-12-02,2850
-WH-E,Laptop,357.0,294,Supplier-B,2024-07-19,2700
-WH-A,Mouse,177.0,83,Supplier-B,2025-01-12,700
-WH-D,Keyboard,66.0,154,Supplier-C,2025-01-24,1620
-WH-B,Mouse,450.0,240,Supplier-Y,2026-06-03,1000
-WH-B,Mouse,267.0,193,Supplier-B,2024-10-20,950
-WH-D,Monitor,35.0,127,Supplier-Z,2024-08-03,3070
-WH-E,Hard Disk,64.0,165,Supplier-X,2025-04-20,1850
-WH-B,Hard Disk,597.0,166,Supplier-B,2025-05-06,1400
-WH-C,Monitor,149.0,238,Supplier-Y,2025-10-30,2900
-WH-C,Tablet,228.0,226,Supplier-X,2025-09-24,2200
-WH-C,Mobile,578.0,101,Supplier-B,2025-02-23,1950
-WH-E,Hard Disk,26.0,218,Supplier-A,2025-01-05,2100
-WH-B,Mouse,183.0,234,Supplier-B,2025-02-05,950
-WH-E,SSD,426.0,258,Supplier-Z,2025-12-07,7350
-WH-E,Hard Disk,311.0,216,Supplier-C,2025-03-22,2000
-WH-B,Mouse,422.0,95,Supplier-X,2026-04-27,900
-WH-D,SSD,100.0,299,Supplier-X,2024-10-20,7070
-WH-D,Mobile,432.0,226,Supplier-A,2025-09-13,2220
-WH-C,Laptop,109.0,117,Supplier-A,2024-08-12,2750
-WH-E,Router,410.0,298,Supplier-X,2026-05-04,1950
-WH-D,Printer,409.0,224,Supplier-Y,2024-08-29,3390
-WH-D,Keyboard,23.0,55,Supplier-C,2024-08-17,1620
-WH-A,Tablet,439.0,85,Supplier-A,2025-12-08,1850
-WH-C,SSD,572.0,84,Supplier-A,2026-06-08,7250
-WH-B,Mobile,550.0,238,Supplier-X,2025-11-27,1550
-WH-E,Laptop,416.0,289,Supplier-Z,2024-10-10,2850
-WH-C,Laptop,223.0,81,Supplier-A,2025-05-02,2750
-WH-B,Tablet,188.0,185,Supplier-X,2024-10-27,1850
-WH-A,Monitor,173.0,170,Supplier-X,2025-09-11,2200
-WH-D,Tablet,197.0,212,Supplier-A,2024-12-09,2520
-WH-E,SSD,337.0,89,Supplier-B,2026-06-28,7200
-WH-C,Mobile,303.0,66,Supplier-A,2024-08-27,2150
-WH-A,Monitor,242.0,235,Supplier-B,2025-10-08,2250
-WH-C,Keyboard,497.0,181,Supplier-Z,2025-11-26,1600
-WH-E,Keyboard,82.0,214,Supplier-A,2026-02-16,1800
-WH-E,Laptop,,70,Supplier-X,2026-05-04,2650
-WH-E,Monitor,349.0,145,Supplier-C,2024-10-10,3100
-WH-A,Keyboard,,79,Supplier-A,2025-07-27,1050
-WH-C,Printer,214.0,180,Supplier-B,2024-08-27,3270
-WH-B,Monitor,,219,Supplier-Z,2025-11-15,2650
-WH-B,Printer,346.0,145,Supplier-X,2026-01-04,2870
-WH-D,Tablet,558.0,101,Supplier-A,2025-12-30,2520
-WH-C,Keyboard,128.0,183,Supplier-B,2025-01-02,1450
-WH-E,Printer,448.0,179,Supplier-B,2024-07-10,3420
-WH-D,SSD,87.0,206,Supplier-Y,2024-08-15,7170
-WH-D,Mouse,,77,Supplier-Z,2025-07-31,1520
-WH-D,Keyboard,417.0,282,Supplier-Z,2025-10-31,1670
-WH-C,Hard Disk,372.0,171,Supplier-Z,2025-05-11,1900
-WH-B,Keyboard,301.0,256,Supplier-B,2025-12-06,1100
-WH-E,Mouse,539.0,294,Supplier-X,2024-08-28,1400
-WH-B,Monitor,488.0,154,Supplier-Z,2025-05-17,2650
-WH-B,SSD,387.0,147,Supplier-X,2024-09-25,6650
-WH-A,Laptop,162.0,120,Supplier-C,2025-11-12,2050
-WH-B,Router,158.0,172,Supplier-C,2025-07-16,1600
-WH-E,Mouse,309.0,215,Supplier-B,2025-06-03,1450
-WH-A,Keyboard,155.0,82,Supplier-C,2024-08-07,950
-WH-D,Printer,,77,Supplier-Y,2025-02-10,3390
-WH-D,Hard Disk,29.0,271,Supplier-X,2025-11-08,1770
-WH-A,Keyboard,418.0,194,Supplier-Y,2024-07-11,900
-WH-E,Router,358.0,99,Supplier-Z,2025-12-27,2150
-WH-D,Monitor,215.0,191,Supplier-A,2026-05-03,3120
-WH-E,SSD,294.0,169,Supplier-A,2026-02-20,7400
-WH-B,Mobile,268.0,239,Supplier-B,2025-04-24,1600
-WH-A,SSD,,257,Supplier-A,2026-02-04,6650
-WH-D,Router,,198,Supplier-Z,2025-11-10,2070
-WH-C,Tablet,94.0,179,Supplier-A,2025-12-26,2450
-WH-B,Laptop,94.0,112,Supplier-X,2025-04-25,2150
-WH-A,Mobile,344.0,137,Supplier-Y,2025-05-14,1400
-WH-E,Hard Disk,470.0,272,Supplier-Z,2024-08-22,2050
-WH-A,Mobile,493.0,202,Supplier-B,2025-08-26,1350
-WH-B,SSD,,99,Supplier-Z,2024-08-21,6850
-WH-C,Monitor,382.0,113,Supplier-C,2025-02-16,2950
-WH-B,Tablet,189.0,247,Supplier-C,2024-12-25,2000
-WH-D,SSD,522.0,226,Supplier-Y,2026-03-21,7170
-WH-B,Printer,481.0,292,Supplier-X,2024-07-09,2870
-WH-E,Laptop,313.0,289,Supplier-X,2025-09-30,2650
-WH-B,Router,,164,Supplier-Z,2025-01-08,1650
-WH-B,Tablet,274.0,292,Supplier-B,2025-07-26,1900
-WH-B,Hard Disk,85.0,61,Supplier-X,2024-08-11,1350
-WH-C,SSD,104.0,158,Supplier-A,2026-06-02,7250
-WH-C,Keyboard,343.0,80,Supplier-Y,2024-08-24,1500
-WH-B,Monitor,510.0,80,Supplier-C,2025-10-28,2600
-WH-C,Mouse,546.0,298,Supplier-X,2025-04-11,1250
-WH-E,SSD,39.0,203,Supplier-X,2025-11-20,7150
-WH-E,SSD,369.0,217,Supplier-Y,2025-03-21,7250
-WH-D,Keyboard,496.0,52,Supplier-C,2024-09-30,1620
-WH-C,Monitor,232.0,247,Supplier-Z,2024-12-17,3000
-WH-E,Tablet,599.0,90,Supplier-A,2026-02-01,2600
-WH-B,Keyboard,115.0,53,Supplier-B,2024-09-12,1100
-WH-C,SSD,27.0,151,Supplier-B,2025-04-12,7050
-WH-C,Tablet,125.0,272,Supplier-C,2026-01-12,2350
-WH-E,SSD,91.0,275,Supplier-C,2024-09-27,7300
-WH-C,Hard Disk,,256,Supplier-Z,2024-12-24,1900
-WH-B,Mouse,60.0,154,Supplier-C,2025-02-25,1050
-WH-E,Mouse,100.0,243,Supplier-A,2025-06-24,1650
-WH-D,Laptop,491.0,106,Supplier-A,2026-05-22,2820
-WH-C,Monitor,370.0,73,Supplier-Z,2025-07-09,3000
-WH-A,Mouse,136.0,284,Supplier-A,2024-09-24,900
-WH-D,Mobile,153.0,239,Supplier-C,2025-07-18,2120
-WH-A,SSD,251.0,205,Supplier-A,2025-05-07,6650
-WH-C,SSD,447.0,199,Supplier-A,2025-06-22,7250
-WH-B,Printer,367.0,277,Supplier-A,2026-06-17,3120
-WH-A,Mouse,230.0,82,Supplier-Y,2025-02-20,750
-WH-E,Keyboard,295.0,190,Supplier-Y,2025-09-01,1650
-WH-E,Monitor,422.0,146,Supplier-Z,2026-01-01,3150
-WH-D,Laptop,269.0,125,Supplier-X,2025-03-06,2570
-WH-A,SSD,529.0,98,Supplier-A,2025-11-22,6650
-WH-C,Laptop,593.0,266,Supplier-Y,2024-09-14,2600
-WH-D,Mouse,519.0,233,Supplier-C,2025-07-02,1470
-WH-A,Laptop,131.0,236,Supplier-A,2024-11-05,2150
-WH-C,Mouse,146.0,179,Supplier-A,2026-03-22,1500
-WH-E,SSD,597.0,282,Supplier-X,2025-11-09,7150
-WH-B,Mouse,295.0,241,Supplier-Y,2025-12-15,1000
-WH-D,Mouse,596.0,52,Supplier-X,2025-03-28,1320
-WH-B,Router,34.0,115,Supplier-C,2026-01-22,1600
-WH-D,Tablet,250.0,171,Supplier-B,2025-05-13,2320
-WH-B,Mobile,183.0,228,Supplier-Y,2025-12-10,1650
-WH-B,Router,82.0,169,Supplier-X,2024-07-19,1450
-WH-E,Keyboard,465.0,137,Supplier-C,2024-07-24,1700
-WH-B,Mobile,216.0,184,Supplier-X,2024-10-13,1550
-WH-C,SSD,579.0,244,Supplier-X,2026-06-09,7000
-WH-E,Tablet,342.0,123,Supplier-A,2025-12-19,2600
-WH-A,Router,144.0,255,Supplier-X,2025-05-19,1200
-WH-B,Monitor,,264,Supplier-Y,2025-08-11,2550
-WH-C,Router,254.0,196,Supplier-Y,2026-06-01,1900
-WH-B,Router,347.0,257,Supplier-X,2025-05-19,1450
-WH-A,SSD,89.0,267,Supplier-X,2024-09-14,6400
-WH-E,Laptop,569.0,229,Supplier-Z,2025-12-04,2850
-WH-D,Router,137.0,67,Supplier-Z,2024-10-16,2070
-WH-E,Mouse,198.0,270,Supplier-A,2025-08-26,1650
-WH-A,Hard Disk,488.0,247,Supplier-X,2026-03-22,1100
-WH-A,Monitor,100.0,200,Supplier-A,2025-07-08,2450
-WH-E,SSD,,210,Supplier-X,2024-11-17,7150
-WH-E,Printer,46.0,131,Supplier-C,2025-03-17,3520
-WH-B,Tablet,122.0,200,Supplier-B,2025-10-17,1900
-WH-B,Printer,184.0,267,Supplier-C,2025-12-04,3020
-WH-B,SSD,593.0,191,Supplier-Y,2024-10-01,6750
-WH-A,Keyboard,60.0,222,Supplier-A,2025-09-26,1050
-WH-B,SSD,458.0,117,Supplier-B,2024-07-27,6700
-WH-B,Keyboard,284.0,170,Supplier-X,2024-10-08,1050
-WH-A,Hard Disk,95.0,254,Supplier-Z,2025-08-25,1300
-WH-D,Mouse,175.0,104,Supplier-C,2025-08-31,1470
-WH-E,Laptop,,102,Supplier-Y,2024-09-04,2750
-WH-A,Mobile,394.0,84,Supplier-A,2024-08-31,1550
-WH-E,Keyboard,322.0,154,Supplier-C,2026-02-24,1700
-WH-C,Mobile,298.0,240,Supplier-X,2026-01-21,1900
-WH-B,Hard Disk,524.0,264,Supplier-Y,2026-06-17,1450
-WH-C,Hard Disk,337.0,140,Supplier-X,2024-12-15,1700
-WH-C,SSD,150.0,214,Supplier-A,2025-06-09,7250
-WH-D,Mobile,119.0,165,Supplier-Z,2025-05-27,2170
-WH-E,Laptop,316.0,277,Supplier-A,2025-01-13,2900
-WH-A,Keyboard,447.0,289,Supplier-B,2025-08-14,850
-WH-A,SSD,,94,Supplier-C,2024-12-07,6550
-WH-C,Mouse,93.0,221,Supplier-Y,2026-05-27,1350
-WH-A,SSD,439.0,53,Supplier-A,2025-04-28,6650
-WH-D,Mouse,,152,Supplier-X,2025-06-13,1320
-WH-C,Hard Disk,25.0,154,Supplier-B,2024-10-29,1750
-WH-B,Mouse,384.0,73,Supplier-Y,2025-03-19,1000
-WH-B,SSD,46.0,254,Supplier-Z,2025-08-02,6850
-WH-B,SSD,311.0,203,Supplier-B,2025-09-29,6700
-WH-D,Laptop,274.0,299,Supplier-X,2026-02-15,2570
-WH-C,Keyboard,,234,Supplier-X,2026-05-06,1400
-WH-B,Mouse,293.0,124,Supplier-C,2026-04-09,1050
-WH-A,SSD,569.0,299,Supplier-Y,2026-03-14,6500
-WH-A,Router,258.0,141,Supplier-B,2026-05-01,1250
-WH-B,Router,585.0,173,Supplier-B,2024-11-05,1500
-WH-A,Printer,511.0,125,Supplier-X,2026-07-03,2620
-WH-E,Laptop,568.0,259,Supplier-A,2024-08-02,2900
-WH-B,Mobile,76.0,79,Supplier-A,2026-06-02,1800
-WH-E,SSD,118.0,157,Supplier-C,2025-01-02,7300
-WH-B,SSD,298.0,288,Supplier-Z,2024-11-08,6850
-WH-D,SSD,,166,Supplier-X,2025-05-10,7070
-WH-A,Tablet,113.0,212,Supplier-C,2024-08-17,1750
-WH-B,Mobile,566.0,218,Supplier-Y,2025-07-04,1650
-WH-C,Hard Disk,228.0,224,Supplier-Z,2024-10-30,1900
-WH-C,Printer,289.0,97,Supplier-Z,2025-01-22,3420
-WH-B,Mouse,326.0,131,Supplier-B,2025-11-22,950
-WH-B,Printer,338.0,178,Supplier-C,2024-11-28,3020
-WH-C,Keyboard,,107,Supplier-Y,2026-05-04,1500
-WH-C,Monitor,61.0,67,Supplier-C,2024-11-07,2950
-WH-B,Monitor,90.0,61,Supplier-B,2025-10-29,2500
-WH-D,Monitor,133.0,96,Supplier-X,2024-11-22,2870
-WH-C,Mobile,424.0,223,Supplier-B,2025-05-11,1950
-WH-E,Printer,325.0,51,Supplier-A,2025-12-16,3620
-WH-A,Monitor,,264,Supplier-Y,2025-06-28,2300
-WH-A,Hard Disk,537.0,65,Supplier-X,2026-01-26,1100
-WH-C,Hard Disk,136.0,206,Supplier-A,2025-02-07,1950
-WH-C,Tablet,271.0,134,Supplier-Y,2025-03-06,2300
-WH-A,Keyboard,293.0,110,Supplier-A,2026-01-13,1050
-WH-D,Printer,25.0,87,Supplier-Y,2025-06-21,3390
-WH-E,Mouse,68.0,126,Supplier-A,2025-01-31,1650
-WH-A,Monitor,223.0,129,Supplier-C,2024-09-20,2350
-WH-B,Hard Disk,522.0,227,Supplier-Z,2025-04-05,1550
-WH-D,Laptop,209.0,179,Supplier-C,2024-08-26,2720
-WH-D,Mobile,28.0,182,Supplier-C,2026-02-04,2120
-WH-C,Mouse,283.0,193,Supplier-Z,2024-07-26,1450
-WH-A,Monitor,81.0,110,Supplier-B,2024-11-07,2250
-WH-E,Mobile,65.0,239,Supplier-Y,2026-03-01,2150
-WH-B,Tablet,188.0,77,Supplier-B,2024-07-23,1900
-WH-D,Laptop,144.0,113,Supplier-B,2026-04-12,2620
-WH-D,Keyboard,186.0,212,Supplier-A,2026-01-30,1720
-WH-D,Mouse,160.0,170,Supplier-C,2025-05-03,1470
-WH-D,Tablet,595.0,258,Supplier-Y,2026-04-27,2370
-WH-B,Keyboard,97.0,113,Supplier-A,2025-05-28,1300
-WH-B,Monitor,452.0,187,Supplier-Y,2025-12-28,2550
-WH-A,Tablet,55.0,223,Supplier-B,2026-03-23,1650
-WH-A,Monitor,314.0,190,Supplier-Z,2025-08-03,2400
-WH-D,Mouse,159.0,258,Supplier-A,2025-06-09,1570
-WH-E,SSD,461.0,279,Supplier-X,2025-03-09,7150
-WH-C,Mobile,73.0,145,Supplier-B,2025-05-15,1950
-WH-C,Printer,451.0,267,Supplier-C,2025-06-12,3370
-WH-C,Monitor,573.0,135,Supplier-Z,2025-12-06,3000
-WH-C,Printer,406.0,272,Supplier-A,2025-07-29,3470
-WH-B,Hard Disk,440.0,109,Supplier-A,2025-12-14,1600
-WH-D,Printer,268.0,185,Supplier-B,2026-05-26,3340
-WH-B,Hard Disk,390.0,184,Supplier-X,2025-09-26,1350
-WH-E,Tablet,191.0,218,Supplier-B,2024-09-02,2400
-WH-A,Hard Disk,404.0,80,Supplier-B,2024-12-30,1150
-WH-C,Keyboard,32.0,167,Supplier-B,2025-03-04,1450
-WH-E,Printer,213.0,288,Supplier-A,2026-03-11,3620
-WH-A,SSD,122.0,213,Supplier-Y,2024-07-05,6500
-WH-A,SSD,243.0,171,Supplier-Y,2024-07-08,6500
-WH-E,Keyboard,,256,Supplier-A,2025-05-21,1800
-WH-E,Keyboard,295.0,216,Supplier-Z,2025-06-27,1750
-WH-C,Printer,504.0,148,Supplier-Z,2024-10-01,3420
-WH-B,Printer,502.0,248,Supplier-B,2025-01-03,2920
-WH-D,Keyboard,581.0,109,Supplier-B,2025-11-15,1520
-WH-B,Laptop,340.0,142,Supplier-Z,2025-10-18,2350
-WH-C,Keyboard,,80,Supplier-Z,2024-08-26,1600
-WH-E,SSD,576.0,196,Supplier-X,2026-06-07,7150
-WH-D,SSD,476.0,117,Supplier-X,2025-06-03,7070
-WH-A,Monitor,294.0,256,Supplier-X,2025-10-05,2200
-WH-E,Tablet,101.0,125,Supplier-B,2025-09-24,2400
-WH-A,Printer,468.0,173,Supplier-B,2024-12-16,2670
-WH-C,Tablet,168.0,50,Supplier-B,2025-11-12,2250
-WH-A,Mouse,410.0,171,Supplier-C,2025-05-27,800
-WH-D,Mouse,60.0,84,Supplier-C,2025-08-26,1470
-WH-E,Mobile,499.0,147,Supplier-A,2025-07-31,2300
-WH-C,Router,,226,Supplier-X,2024-11-28,1800
-WH-B,Mobile,318.0,102,Supplier-X,2024-07-25,1550
-WH-D,Tablet,307.0,69,Supplier-Y,2025-02-04,2370
-WH-B,Tablet,225.0,180,Supplier-Z,2026-05-05,2050
-WH-E,Printer,178.0,113,Supplier-Y,2024-08-17,3470
-WH-D,SSD,397.0,121,Supplier-C,2024-10-13,7220
-WH-B,Monitor,137.0,263,Supplier-B,2025-08-20,2500
-WH-B,Tablet,563.0,274,Supplier-B,2025-02-16,1900
-WH-D,SSD,534.0,138,Supplier-A,2025-04-27,7320
-WH-A,Printer,550.0,95,Supplier-Y,2025-11-09,2720
-WH-A,Mobile,458.0,162,Supplier-Y,2026-01-03,1400
-WH-B,Laptop,60.0,143,Supplier-Z,2025-09-05,2350
-WH-A,Mouse,71.0,60,Supplier-X,2026-01-25,650
-WH-C,Printer,106.0,202,Supplier-Y,2025-04-20,3320
-WH-A,Tablet,,205,Supplier-C,2025-07-31,1750
-WH-E,Laptop,69.0,203,Supplier-A,2026-04-26,2900
-WH-A,SSD,292.0,215,Supplier-Y,2025-01-11,6500
-WH-B,Printer,305.0,121,Supplier-Z,2025-04-10,3070
-WH-B,Monitor,152.0,274,Supplier-C,2025-05-26,2600
-WH-D,Mouse,215.0,187,Supplier-X,2025-01-11,1320
-WH-A,Router,49.0,227,Supplier-Y,2025-09-06,1300
-WH-C,Tablet,330.0,67,Supplier-A,2025-05-28,2450
-WH-D,Mouse,176.0,115,Supplier-C,2025-10-12,1470
-WH-A,Tablet,544.0,164,Supplier-A,2024-10-14,1850
-WH-E,Hard Disk,187.0,233,Supplier-C,2026-06-22,2000
-WH-A,Monitor,85.0,151,Supplier-Y,2025-07-02,2300
-WH-D,Mouse,532.0,168,Supplier-A,2025-12-01,1570
-WH-E,Mobile,108.0,251,Supplier-Z,2026-06-16,2250
-WH-D,Router,,142,Supplier-B,2024-09-21,1920
-WH-C,Monitor,269.0,121,Supplier-X,2026-02-26,2800
-WH-B,Router,191.0,115,Supplier-C,2025-01-29,1600
-WH-E,Mobile,,285,Supplier-B,2026-06-25,2100
-WH-E,Printer,49.0,249,Supplier-Y,2024-07-05,3470
-WH-A,Mobile,155.0,104,Supplier-B,2025-10-15,1350
-WH-B,Printer,510.0,234,Supplier-Z,2026-02-28,3070
-WH-E,Keyboard,214.0,292,Supplier-Y,2025-04-03,1650
-WH-E,Monitor,415.0,191,Supplier-Z,2026-03-23,3150
-WH-B,Mobile,176.0,115,Supplier-Y,2025-08-17,1650
-WH-B,Printer,419.0,92,Supplier-X,2024-11-01,2870
-WH-C,Monitor,148.0,294,Supplier-C,2026-01-20,2950
-WH-E,Keyboard,276.0,296,Supplier-C,2026-05-22,1700
-WH-A,Hard Disk,,185,Supplier-Z,2024-10-30,1300
-WH-B,Hard Disk,582.0,267,Supplier-X,2025-09-11,1350
-WH-A,Hard Disk,58.0,93,Supplier-B,2026-06-05,1150
-WH-E,Router,467.0,285,Supplier-C,2025-11-28,2100
-WH-C,Tablet,,284,Supplier-A,2024-10-05,2450
-WH-A,SSD,170.0,280,Supplier-B,2025-10-10,6450
-WH-D,Tablet,25.0,170,Supplier-C,2024-08-18,2420
-WH-B,Monitor,397.0,56,Supplier-A,2026-01-21,2700
-WH-A,Router,530.0,137,Supplier-Y,2024-12-15,1300
-WH-B,Tablet,438.0,69,Supplier-B,2025-06-25,1900
-WH-B,Printer,296.0,237,Supplier-Y,2026-04-19,2970
-WH-D,Hard Disk,427.0,245,Supplier-C,2025-01-10,1920
-WH-E,Router,181.0,285,Supplier-B,2024-09-21,2000
-WH-E,Keyboard,446.0,103,Supplier-C,2024-09-26,1700
-WH-A,Keyboard,410.0,192,Supplier-Y,2024-12-22,900
-WH-B,Laptop,136.0,290,Supplier-Z,2024-12-16,2350
-WH-C,Mobile,52.0,269,Supplier-C,2025-02-22,2050
-WH-A,Hard Disk,58.0,186,Supplier-Y,2026-03-05,1200
-WH-B,Keyboard,55.0,164,Supplier-Z,2025-01-27,1250
-WH-C,Laptop,396.0,134,Supplier-C,2026-01-16,2650
-WH-E,Printer,161.0,106,Supplier-Z,2024-09-14,3570
-WH-E,Tablet,114.0,189,Supplier-A,2026-02-07,2600
-WH-C,Tablet,202.0,216,Supplier-C,2026-02-20,2350
-WH-C,SSD,89.0,294,Supplier-Y,2026-05-28,7100
-WH-E,Printer,430.0,181,Supplier-A,2025-09-08,3620
-WH-B,Router,527.0,240,Supplier-B,2025-01-15,1500
-WH-C,Mobile,96.0,200,Supplier-B,2025-12-06,1950
-WH-D,Monitor,504.0,83,Supplier-B,2024-07-09,2920
-WH-A,Keyboard,521.0,126,Supplier-C,2025-11-03,950
-WH-A,Hard Disk,49.0,262,Supplier-C,2026-03-22,1250
-WH-E,Keyboard,402.0,86,Supplier-C,2025-06-23,1700
-WH-A,Router,502.0,128,Supplier-X,2024-10-01,1200
-WH-D,Hard Disk,401.0,274,Supplier-Z,2025-06-30,1970
-WH-C,Hard Disk,549.0,279,Supplier-C,2025-01-12,1850
-WH-B,Mobile,315.0,92,Supplier-X,2026-02-02,1550
-WH-A,Mouse,369.0,96,Supplier-Z,2025-08-10,850
-WH-B,SSD,,88,Supplier-Y,2026-06-26,6750
-WH-D,Hard Disk,108.0,163,Supplier-C,2024-07-31,1920
-WH-E,Hard Disk,128.0,122,Supplier-X,2026-04-12,1850
-WH-D,Printer,162.0,167,Supplier-C,2024-07-28,3440
-WH-D,Hard Disk,49.0,221,Supplier-B,2024-08-16,1820
-WH-C,Tablet,551.0,227,Supplier-A,2026-05-20,2450
-WH-E,Keyboard,76.0,106,Supplier-X,2025-07-16,1550
-WH-A,Keyboard,127.0,131,Supplier-X,2025-04-02,800
-WH-E,Laptop,295.0,298,Supplier-Y,2025-04-24,2750
-WH-B,Monitor,204.0,155,Supplier-B,2024-07-12,2500
-WH-B,Monitor,597.0,171,Supplier-Y,2025-04-24,2550
-WH-D,SSD,198.0,223,Supplier-X,2026-03-03,7070
-WH-B,Keyboard,552.0,61,Supplier-X,2026-03-17,1050
-WH-D,Tablet,,296,Supplier-A,2025-10-10,2520
-WH-C,Laptop,402.0,63,Supplier-A,2024-08-28,2750
-WH-B,Hard Disk,49.0,249,Supplier-A,2025-08-05,1600
-WH-A,Hard Disk,371.0,196,Supplier-C,2025-03-04,1250
-WH-B,Mouse,519.0,96,Supplier-C,2025-03-14,1050
-WH-A,Tablet,431.0,153,Supplier-Z,2025-04-29,1800
-WH-B,Tablet,366.0,73,Supplier-A,2024-09-05,2100
-WH-A,Mouse,188.0,77,Supplier-C,2025-01-25,800
-WH-D,Router,521.0,125,Supplier-B,2024-08-13,1920
-WH-A,Mobile,512.0,92,Supplier-Y,2025-02-04,1400
-WH-D,Mouse,,187,Supplier-B,2025-04-25,1370
-WH-D,Mouse,,114,Supplier-B,2025-01-24,1370
-WH-C,SSD,189.0,219,Supplier-X,2024-11-04,7000
-WH-D,Keyboard,514.0,230,Supplier-B,2024-08-09,1520
-WH-A,Monitor,237.0,274,Supplier-B,2025-05-27,2250
-WH-B,SSD,246.0,182,Supplier-C,2026-06-27,6800
-WH-D,Tablet,79.0,125,Supplier-Y,2026-02-17,2370
-WH-D,Router,223.0,238,Supplier-Y,2026-05-18,1970
-WH-C,Keyboard,475.0,215,Supplier-B,2026-01-17,1450
-WH-D,Monitor,119.0,173,Supplier-B,2026-05-17,2920
-WH-D,SSD,,256,Supplier-Y,2025-09-15,7170
-WH-C,Hard Disk,354.0,294,Supplier-B,2025-09-14,1750
-WH-C,Mobile,378.0,219,Supplier-B,2025-11-20,1950
-WH-C,Mouse,140.0,199,Supplier-Z,2025-02-22,1450
-WH-E,Printer,,273,Supplier-Z,2026-05-28,3570
-WH-A,Tablet,451.0,63,Supplier-Z,2024-12-05,1800
-WH-E,Tablet,325.0,283,Supplier-B,2024-12-05,2400
-WH-A,SSD,567.0,138,Supplier-Y,2024-07-25,6500
-WH-E,Hard Disk,329.0,259,Supplier-C,2025-10-09,2000
-WH-D,SSD,375.0,213,Supplier-C,2025-10-06,7220
-WH-A,Mobile,266.0,179,Supplier-A,2025-01-14,1550
-WH-D,Printer,474.0,225,Supplier-A,2024-11-06,3540
-WH-A,Laptop,305.0,68,Supplier-Z,2026-05-10,2100
-WH-B,Router,174.0,52,Supplier-C,2025-03-15,1600
-WH-D,SSD,547.0,88,Supplier-A,2024-08-12,7320
-WH-A,Mouse,251.0,167,Supplier-A,2025-11-17,900
-WH-C,Router,,252,Supplier-C,2025-06-22,1950
-WH-B,Router,,180,Supplier-B,2026-05-31,1500
-WH-D,Printer,497.0,167,Supplier-Z,2024-12-04,3490
-WH-B,Monitor,303.0,239,Supplier-C,2026-03-29,2600
-WH-C,SSD,373.0,68,Supplier-Y,2025-12-15,7100
-WH-B,Mobile,231.0,144,Supplier-Z,2025-07-07,1750
-WH-D,Monitor,440.0,91,Supplier-B,2025-08-12,2920
-WH-D,Keyboard,438.0,67,Supplier-C,2026-03-22,1620
-WH-E,Router,276.0,99,Supplier-Y,2025-03-23,2050
-WH-E,Hard Disk,107.0,187,Supplier-A,2026-03-18,2100
-WH-B,Laptop,538.0,292,Supplier-X,2025-04-13,2150
-WH-A,Tablet,93.0,118,Supplier-X,2025-03-14,1600
-WH-A,Tablet,315.0,155,Supplier-Z,2025-09-30,1800
-WH-D,Monitor,343.0,229,Supplier-C,2025-09-24,3020
-WH-C,Hard Disk,455.0,255,Supplier-C,2024-10-20,1850
-WH-B,Mouse,221.0,189,Supplier-B,2025-07-22,950
-WH-B,Tablet,216.0,101,Supplier-X,2024-07-28,1850
-WH-C,Tablet,487.0,152,Supplier-X,2025-06-12,2200
-WH-C,Mouse,451.0,121,Supplier-A,2026-01-21,1500
-WH-E,Mobile,390.0,66,Supplier-C,2024-10-30,2200
-WH-C,Keyboard,120.0,269,Supplier-A,2024-11-28,1650
-WH-D,Laptop,40.0,263,Supplier-Y,2026-07-01,2670
-WH-B,SSD,592.0,166,Supplier-A,2025-03-04,6900
-WH-D,Mobile,520.0,102,Supplier-C,2024-08-20,2120
-WH-B,Router,122.0,117,Supplier-Z,2025-09-27,1650
-WH-C,Tablet,31.0,53,Supplier-X,2025-04-07,2200
-WH-B,Router,444.0,233,Supplier-Y,2024-12-25,1550
-WH-C,SSD,252.0,298,Supplier-A,2025-01-26,7250
-WH-D,Monitor,268.0,201,Supplier-X,2025-12-20,2870
-WH-E,Hard Disk,,208,Supplier-X,2024-09-17,1850
-WH-C,Keyboard,259.0,270,Supplier-C,2025-01-25,1550
-WH-C,Router,157.0,189,Supplier-C,2025-05-28,1950
-WH-A,Mobile,419.0,208,Supplier-Z,2024-10-11,1500
-WH-D,Laptop,397.0,187,Supplier-Z,2024-07-06,2770
-WH-A,Mouse,96.0,277,Supplier-Y,2025-11-14,750
-WH-D,Router,584.0,248,Supplier-Z,2026-05-27,2070
-WH-E,Hard Disk,366.0,300,Supplier-Y,2026-06-03,1950
-WH-E,Keyboard,390.0,208,Supplier-C,2026-01-27,1700
-WH-D,Hard Disk,,141,Supplier-B,2024-07-08,1820
-WH-A,Mobile,,211,Supplier-C,2026-03-24,1450
-WH-E,Mouse,387.0,147,Supplier-Z,2025-05-25,1600
-WH-B,Mouse,110.0,92,Supplier-Z,2025-03-15,1100
-WH-D,Keyboard,373.0,243,Supplier-Y,2024-09-08,1570
-WH-A,Mouse,,85,Supplier-Y,2025-11-06,750
-WH-E,Router,358.0,226,Supplier-Y,2025-02-11,2050
-WH-D,Mouse,106.0,113,Supplier-Y,2025-04-16,1420
-WH-B,Hard Disk,528.0,260,Supplier-A,2026-03-25,1600
-WH-A,Keyboard,556.0,166,Supplier-Z,2026-07-04,1000
-WH-A,Tablet,110.0,287,Supplier-A,2025-03-18,1850
-WH-C,Mobile,195.0,55,Supplier-A,2024-10-11,2150
-WH-D,Mouse,96.0,165,Supplier-Z,2025-05-20,1520
-WH-B,Hard Disk,512.0,273,Supplier-Y,2024-12-29,1450
-WH-D,Tablet,402.0,241,Supplier-A,2024-12-20,2520
-WH-D,Hard Disk,,124,Supplier-A,2024-10-22,2020
-WH-E,SSD,341.0,265,Supplier-Z,2025-10-21,7350
-WH-A,Monitor,,106,Supplier-B,2025-04-01,2250
-WH-A,Monitor,583.0,152,Supplier-B,2025-05-22,2250
-WH-D,Router,115.0,212,Supplier-X,2026-02-22,1870
-WH-D,SSD,592.0,173,Supplier-B,2026-01-03,7120
-WH-D,Mobile,115.0,72,Supplier-X,2026-06-28,1970
-WH-C,Hard Disk,121.0,65,Supplier-B,2026-06-14,1750
-WH-E,Printer,459.0,282,Supplier-A,2026-05-22,3620
-WH-D,Monitor,410.0,80,Supplier-B,2025-03-01,2920
-WH-D,Mobile,,91,Supplier-C,2025-06-07,2120
-WH-A,Printer,278.0,147,Supplier-A,2025-09-19,2870
-WH-E,Mobile,514.0,202,Supplier-Z,2025-08-03,2250
-WH-B,Mouse,100.0,279,Supplier-B,2025-05-12,950
-WH-B,Laptop,81.0,179,Supplier-Y,2025-03-05,2250
-WH-C,Keyboard,456.0,164,Supplier-Z,2025-07-06,1600
-WH-E,Laptop,314.0,67,Supplier-B,2025-08-18,2700
-WH-A,Printer,490.0,212,Supplier-Z,2025-03-12,2820
-WH-B,Router,519.0,60,Supplier-Z,2026-05-04,1650
-WH-E,Tablet,83.0,259,Supplier-C,2024-11-18,2500
-WH-A,Printer,74.0,68,Supplier-A,2025-11-25,2870
-WH-B,Tablet,407.0,238,Supplier-C,2024-10-17,2000
-WH-B,Printer,322.0,141,Supplier-B,2026-02-07,2920
-WH-D,Tablet,342.0,124,Supplier-Y,2026-05-19,2370
-WH-D,Router,392.0,183,Supplier-B,2026-01-08,1920
-WH-D,Hard Disk,479.0,242,Supplier-Z,2025-03-23,1970
-WH-B,Printer,426.0,289,Supplier-Y,2026-03-05,2970
-WH-E,Mouse,521.0,267,Supplier-X,2025-12-17,1400
-WH-B,Mobile,366.0,250,Supplier-A,2025-04-26,1800
-WH-B,Mobile,199.0,133,Supplier-Z,2024-09-28,1750
-WH-B,SSD,82.0,155,Supplier-Y,2024-08-25,6750
-WH-B,Keyboard,367.0,245,Supplier-C,2025-02-27,1200
-WH-D,SSD,243.0,243,Supplier-A,2024-08-18,7320
-WH-C,Router,362.0,74,Supplier-C,2025-07-16,1950
-WH-B,SSD,,63,Supplier-B,2024-11-12,6700
-WH-E,Router,489.0,243,Supplier-Y,2026-05-19,2050
-WH-D,SSD,276.0,124,Supplier-X,2025-10-09,7070
-WH-E,Router,427.0,128,Supplier-Z,2024-12-17,2150
-WH-C,Keyboard,589.0,229,Supplier-B,2026-04-03,1450
-WH-E,Laptop,597.0,229,Supplier-C,2026-03-30,2800
-WH-A,Laptop,363.0,195,Supplier-Z,2025-02-10,2100
-WH-B,Hard Disk,126.0,237,Supplier-Y,2024-07-22,1450
-WH-A,Router,529.0,130,Supplier-A,2025-12-01,1450
-WH-A,Monitor,236.0,236,Supplier-Y,2026-02-05,2300
-WH-D,Monitor,291.0,238,Supplier-Y,2025-02-20,2970
-WH-A,Monitor,41.0,213,Supplier-C,2025-11-01,2350
-WH-D,Laptop,153.0,284,Supplier-Z,2025-02-26,2770
-WH-B,Mobile,,285,Supplier-X,2025-05-02,1550
-WH-D,Mobile,66.0,267,Supplier-X,2025-11-24,1970
-WH-B,Mouse,328.0,63,Supplier-B,2025-12-20,950
-WH-A,SSD,53.0,172,Supplier-A,2025-05-25,6650
-WH-A,Printer,239.0,159,Supplier-C,2025-01-12,2770
-WH-B,Router,,203,Supplier-B,2025-01-31,1500
-WH-B,Router,471.0,78,Supplier-A,2025-07-06,1700
-WH-C,SSD,290.0,223,Supplier-Z,2025-07-16,7200
-WH-D,Mobile,504.0,220,Supplier-B,2025-04-24,2020
-WH-B,Hard Disk,429.0,194,Supplier-X,2025-09-07,1350
-WH-C,Mouse,171.0,295,Supplier-C,2025-01-25,1400
-WH-A,Tablet,58.0,167,Supplier-X,2025-12-26,1600
-WH-E,Mouse,327.0,156,Supplier-C,2025-01-02,1550
-WH-D,Mouse,357.0,147,Supplier-B,2024-11-03,1370
-WH-C,Mobile,73.0,54,Supplier-A,2025-01-10,2150
-WH-D,Monitor,548.0,239,Supplier-A,2026-01-05,3120
-WH-D,Hard Disk,460.0,125,Supplier-B,2026-06-20,1820
-WH-D,Tablet,166.0,262,Supplier-Y,2025-06-10,2370
-WH-D,Mouse,117.0,299,Supplier-A,2026-03-25,1570
-WH-A,Tablet,,220,Supplier-C,2025-09-27,1750
-WH-E,Laptop,361.0,59,Supplier-X,2024-09-18,2650
-WH-A,Tablet,591.0,109,Supplier-A,2024-07-19,1850
-WH-C,Tablet,511.0,237,Supplier-C,2026-01-13,2350
-WH-A,Mobile,584.0,216,Supplier-C,2025-08-19,1450
-WH-D,Hard Disk,413.0,275,Supplier-B,2024-08-08,1820
-WH-A,Router,236.0,292,Supplier-Y,2025-06-06,1300
-WH-A,Router,224.0,125,Supplier-X,2024-12-17,1200
-WH-B,Tablet,420.0,50,Supplier-C,2025-11-28,2000
-WH-C,Keyboard,287.0,235,Supplier-B,2025-07-17,1450
-WH-B,Mobile,424.0,249,Supplier-Z,2025-05-26,1750
-WH-B,Tablet,78.0,245,Supplier-B,2026-06-19,1900
-WH-C,Mouse,428.0,270,Supplier-C,2025-06-17,1400
-WH-D,Tablet,255.0,147,Supplier-Y,2026-02-14,2370
-WH-D,Monitor,555.0,101,Supplier-B,2024-07-04,2920
-WH-D,SSD,,65,Supplier-A,2026-03-07,7320
-WH-E,Monitor,307.0,279,Supplier-X,2024-08-03,2950
-WH-C,Keyboard,173.0,268,Supplier-C,2025-12-07,1550
-WH-E,Mouse,521.0,262,Supplier-B,2025-08-27,1450
-WH-A,Tablet,509.0,103,Supplier-B,2024-11-10,1650
-WH-B,Laptop,351.0,252,Supplier-Z,2025-10-20,2350
-WH-C,Mouse,30.0,116,Supplier-A,2025-11-30,1500
-WH-D,Keyboard,549.0,235,Supplier-B,2026-02-28,1520
-WH-A,Tablet,359.0,177,Supplier-X,2025-03-06,1600
-WH-A,SSD,350.0,127,Supplier-Y,2024-08-20,6500
-WH-D,Printer,510.0,164,Supplier-X,2025-08-18,3290
-WH-E,Keyboard,,175,Supplier-Y,2025-06-26,1650
-WH-B,Router,395.0,259,Supplier-Z,2025-11-20,1650
-WH-B,Tablet,29.0,88,Supplier-C,2025-07-18,2000
-WH-C,SSD,406.0,114,Supplier-B,2026-04-30,7050
-WH-A,Laptop,430.0,83,Supplier-Y,2026-03-19,2000
-WH-E,Mouse,67.0,170,Supplier-A,2025-06-18,1650
-WH-B,Tablet,61.0,181,Supplier-C,2025-01-09,2000
-WH-C,Keyboard,467.0,84,Supplier-Z,2024-12-27,1600
-WH-A,Laptop,,211,Supplier-B,2026-04-10,1950
-WH-E,Tablet,371.0,268,Supplier-B,2025-06-12,2400
-WH-C,Monitor,424.0,275,Supplier-A,2025-06-01,3050
-WH-E,Printer,502.0,189,Supplier-Z,2024-08-05,3570
-WH-A,Monitor,313.0,242,Supplier-Z,2025-11-05,2400
-WH-B,Hard Disk,20.0,127,Supplier-B,2024-09-03,1400
-WH-B,Tablet,130.0,173,Supplier-C,2025-04-11,2000
-WH-D,Hard Disk,284.0,139,Supplier-B,2025-12-19,1820
-WH-C,Hard Disk,501.0,245,Supplier-X,2025-10-01,1700
-WH-D,Mobile,560.0,221,Supplier-Z,2025-01-31,2170
-WH-C,Laptop,245.0,191,Supplier-B,2025-02-05,2550
-WH-B,Printer,273.0,238,Supplier-X,2026-04-22,2870
-WH-B,Mobile,177.0,292,Supplier-A,2026-02-11,1800
-WH-D,Router,443.0,157,Supplier-C,2024-08-26,2020
-WH-E,Laptop,25.0,149,Supplier-Y,2025-05-16,2750
-WH-C,Hard Disk,407.0,195,Supplier-B,2026-02-07,1750
-WH-E,Hard Disk,57.0,246,Supplier-A,2026-06-08,2100
-WH-D,SSD,556.0,56,Supplier-X,2026-06-18,7070
-WH-C,Printer,521.0,84,Supplier-C,2025-04-24,3370
-WH-D,Tablet,592.0,220,Supplier-A,2025-04-13,2520
-WH-D,Mobile,475.0,201,Supplier-Y,2024-08-31,2070
-WH-A,Printer,453.0,273,Supplier-Z,2024-09-28,2820
-WH-E,Hard Disk,127.0,85,Supplier-C,2025-09-02,2000
-WH-D,Keyboard,265.0,63,Supplier-C,2024-10-27,1620
-WH-C,Printer,,215,Supplier-B,2024-08-07,3270
-WH-B,Tablet,575.0,189,Supplier-C,2024-12-09,2000
-WH-A,Router,84.0,220,Supplier-C,2025-01-23,1350
-WH-B,Mobile,185.0,108,Supplier-C,2024-08-22,1700
-WH-B,Printer,,143,Supplier-B,2025-06-21,2920
-WH-C,Router,239.0,115,Supplier-C,2024-08-18,1950
-WH-A,Laptop,,87,Supplier-A,2026-05-23,2150
-WH-A,SSD,507.0,154,Supplier-Y,2025-01-25,6500
-WH-B,SSD,189.0,268,Supplier-A,2025-11-27,6900
-WH-E,Keyboard,503.0,278,Supplier-B,2025-09-02,1600
-WH-C,Mobile,387.0,144,Supplier-C,2024-09-24,2050
-WH-A,Tablet,179.0,158,Supplier-C,2025-02-02,1750
-WH-A,SSD,432.0,190,Supplier-Y,2025-02-09,6500
-WH-C,Tablet,,65,Supplier-Z,2026-04-02,2400
-WH-B,Printer,549.0,84,Supplier-A,2024-12-21,3120
-WH-D,Router,386.0,154,Supplier-Z,2024-11-20,2070
-WH-A,Mobile,,264,Supplier-C,2025-10-25,1450
-WH-E,Mobile,441.0,296,Supplier-Y,2025-02-03,2150
-WH-D,Keyboard,182.0,244,Supplier-Y,2025-12-27,1570
-WH-A,Hard Disk,568.0,251,Supplier-X,2025-08-05,1100
-WH-D,Keyboard,553.0,265,Supplier-Y,2025-04-05,1570
-WH-D,Keyboard,281.0,117,Supplier-B,2024-10-26,1520
-WH-D,Printer,,148,Supplier-A,2025-09-07,3540
-WH-A,Keyboard,213.0,182,Supplier-Y,2025-09-06,900
-WH-C,Keyboard,199.0,222,Supplier-B,2026-03-04,1450
-WH-B,SSD,234.0,293,Supplier-X,2025-10-22,6650
-WH-C,Router,589.0,158,Supplier-Z,2024-12-18,2000
-WH-B,Keyboard,236.0,273,Supplier-B,2024-12-22,1100
-WH-A,Keyboard,422.0,100,Supplier-B,2025-03-02,850
-WH-E,Keyboard,600.0,199,Supplier-C,2025-06-12,1700
-WH-B,Monitor,160.0,114,Supplier-B,2025-11-13,2500
-WH-D,SSD,297.0,140,Supplier-Z,2025-01-27,7270
-WH-E,Hard Disk,185.0,89,Supplier-Y,2026-01-11,1950
-WH-D,Tablet,105.0,172,Supplier-Z,2024-10-19,2470
-WH-A,Mobile,149.0,205,Supplier-Z,2025-08-26,1500
-WH-E,Hard Disk,318.0,271,Supplier-Z,2025-04-01,2050
-WH-E,Laptop,331.0,252,Supplier-X,2025-10-27,2650
-WH-C,Mobile,47.0,199,Supplier-A,2024-07-15,2150
-WH-D,Monitor,322.0,85,Supplier-Y,2025-06-19,2970
-WH-B,Hard Disk,552.0,88,Supplier-B,2025-08-29,1400
-WH-D,Hard Disk,424.0,171,Supplier-Y,2024-09-26,1870
-WH-C,Tablet,100.0,60,Supplier-Z,2026-06-04,2400
-WH-E,Tablet,125.0,90,Supplier-Z,2025-04-04,2550
-WH-C,Mouse,510.0,292,Supplier-B,2026-04-12,1300
-WH-B,Keyboard,34.0,142,Supplier-Y,2025-09-17,1150
-WH-C,Hard Disk,290.0,233,Supplier-Y,2025-06-25,1800
-WH-A,Printer,77.0,146,Supplier-A,2025-06-24,2870
-WH-B,Hard Disk,321.0,146,Supplier-Y,2024-07-22,1450
-WH-D,Mouse,284.0,174,Supplier-Y,2024-12-28,1420
-WH-B,Printer,302.0,53,Supplier-Z,2025-05-27,3070
-WH-B,Printer,222.0,57,Supplier-A,2024-09-25,3120
-WH-E,Mobile,356.0,131,Supplier-Y,2026-05-27,2150
-WH-D,Hard Disk,523.0,119,Supplier-A,2024-08-12,2020
-WH-A,Printer,,61,Supplier-Z,2024-10-08,2820
-WH-A,Mobile,269.0,138,Supplier-C,2026-05-22,1450
-WH-D,Keyboard,352.0,226,Supplier-C,2024-09-09,1620
-WH-C,SSD,60.0,176,Supplier-B,2025-08-26,7050
-WH-D,Mouse,75.0,155,Supplier-A,2026-03-21,1570
-WH-C,Keyboard,191.0,176,Supplier-Z,2026-05-17,1600
-WH-E,Router,253.0,297,Supplier-Z,2024-09-14,2150
-WH-B,Mobile,,300,Supplier-A,2025-01-15,1800
-WH-E,SSD,463.0,229,Supplier-C,2026-03-14,7300
-WH-A,Mouse,261.0,163,Supplier-Y,2026-06-12,750
-WH-E,SSD,138.0,213,Supplier-C,2024-08-29,7300
-WH-B,Printer,272.0,291,Supplier-X,2025-04-25,2870
-WH-E,Printer,410.0,290,Supplier-Y,2025-08-27,3470
-WH-B,Mobile,,268,Supplier-Y,2025-05-29,1650
-WH-A,Hard Disk,112.0,176,Supplier-C,2025-06-02,1250
-WH-D,Laptop,92.0,199,Supplier-C,2025-08-01,2720
-WH-C,Tablet,,212,Supplier-Z,2025-05-12,2400
-WH-B,Mouse,471.0,292,Supplier-C,2025-10-03,1050
-WH-C,Printer,29.0,55,Supplier-B,2026-01-31,3270
-WH-A,Tablet,103.0,243,Supplier-Y,2025-09-17,1700
-WH-D,Mobile,459.0,207,Supplier-Y,2025-02-18,2070
-WH-A,SSD,69.0,264,Supplier-X,2025-12-06,6400
-WH-D,Laptop,169.0,271,Supplier-B,2025-09-16,2620
-WH-B,Hard Disk,,68,Supplier-C,2026-04-16,1500
-WH-C,SSD,323.0,164,Supplier-B,2025-05-30,7050
-WH-B,Tablet,141.0,90,Supplier-Y,2026-02-18,1950
-WH-A,Tablet,597.0,176,Supplier-C,2026-05-12,1750
-WH-A,Laptop,393.0,251,Supplier-Z,2025-03-25,2100
-WH-D,Mobile,348.0,139,Supplier-A,2026-06-01,2220
-WH-D,Keyboard,580.0,262,Supplier-Z,2026-01-30,1670
-WH-E,Monitor,,223,Supplier-X,2024-11-30,2950
-WH-D,Tablet,316.0,296,Supplier-C,2025-06-22,2420
-WH-D,Tablet,28.0,94,Supplier-C,2026-01-27,2420
-WH-C,Laptop,427.0,200,Supplier-Y,2024-08-29,2600
-WH-A,Hard Disk,417.0,283,Supplier-Y,2025-06-29,1200
-WH-A,Mobile,,155,Supplier-A,2025-11-07,1550
-WH-D,Printer,245.0,241,Supplier-B,2025-11-19,3340
-WH-B,Router,124.0,108,Supplier-X,2025-12-22,1450
-WH-D,Mouse,300.0,139,Supplier-A,2026-05-06,1570
-WH-A,SSD,50.0,201,Supplier-X,2024-09-28,6400
-WH-A,Printer,168.0,123,Supplier-B,2025-12-13,2670
-WH-C,Router,,99,Supplier-C,2026-02-05,1950
-WH-A,Printer,259.0,128,Supplier-C,2024-07-11,2770
-WH-C,Laptop,,161,Supplier-C,2024-08-08,2650
-WH-C,Mouse,164.0,169,Supplier-X,2024-11-03,1250
-WH-D,SSD,85.0,80,Supplier-A,2025-10-04,7320
-WH-E,Hard Disk,483.0,233,Supplier-A,2026-03-31,2100
-WH-E,Mobile,383.0,246,Supplier-X,2026-03-30,2050
-WH-D,Mobile,572.0,296,Supplier-C,2026-06-18,2120
-WH-A,Router,340.0,284,Supplier-Z,2025-09-30,1400
-WH-D,Hard Disk,569.0,222,Supplier-C,2026-06-21,1920
-WH-D,Printer,413.0,197,Supplier-C,2025-02-04,3440
-WH-C,Mobile,327.0,188,Supplier-B,2025-07-01,1950
-WH-A,Mouse,,217,Supplier-Y,2026-04-11,750
-WH-A,Laptop,452.0,137,Supplier-C,2026-05-20,2050
-WH-D,Router,584.0,182,Supplier-C,2025-11-17,2020
-WH-A,Mobile,,106,Supplier-C,2026-02-07,1450
-WH-A,Keyboard,539.0,129,Supplier-B,2026-06-25,850
-WH-E,Tablet,493.0,236,Supplier-B,2025-08-31,2400
-WH-E,Mouse,366.0,61,Supplier-Y,2025-12-05,1500
-WH-D,Laptop,331.0,101,Supplier-Z,2024-11-01,2770
-WH-E,Router,591.0,295,Supplier-Y,2025-07-12,2050
-WH-D,Router,313.0,64,Supplier-X,2026-06-25,1870
-WH-E,Mouse,472.0,243,Supplier-B,2024-10-19,1450
-WH-C,Mouse,,93,Supplier-A,2025-10-22,1500
-WH-A,Mobile,,218,Supplier-B,2026-02-09,1350
-WH-D,Mouse,385.0,231,Supplier-Y,2024-12-24,1420
-WH-B,Printer,465.0,102,Supplier-X,2026-03-20,2870
-WH-A,Keyboard,177.0,147,Supplier-Y,2024-12-16,900
-WH-A,Laptop,569.0,215,Supplier-Z,2025-07-04,2100
-WH-D,Tablet,177.0,127,Supplier-C,2025-11-23,2420
-WH-C,Monitor,372.0,239,Supplier-C,2025-06-29,2950
-WH-C,SSD,251.0,79,Supplier-Z,2026-05-17,7200
-WH-A,Mouse,411.0,275,Supplier-Z,2026-06-06,850
-WH-E,SSD,153.0,73,Supplier-X,2025-03-21,7150
-WH-D,Mobile,,74,Supplier-C,2024-09-28,2120
-WH-A,Printer,506.0,226,Supplier-Z,2026-06-02,2820
-WH-A,Mouse,461.0,125,Supplier-X,2026-05-03,650
-WH-E,SSD,563.0,296,Supplier-Y,2024-12-05,7250
-WH-A,Keyboard,,148,Supplier-X,2026-01-13,800
-WH-A,Keyboard,203.0,194,Supplier-B,2026-06-30,850
-WH-E,Hard Disk,444.0,250,Supplier-B,2025-06-07,1900
-WH-C,Printer,,52,Supplier-X,2025-02-21,3220
-WH-C,Mobile,468.0,144,Supplier-Y,2025-01-25,2000
-WH-B,Hard Disk,,119,Supplier-A,2026-02-07,1600
-WH-A,Mouse,189.0,71,Supplier-Z,2025-09-12,850
-WH-A,Mouse,300.0,230,Supplier-X,2025-01-21,650
-WH-B,Laptop,,221,Supplier-X,2024-12-14,2150
-WH-C,Router,472.0,158,Supplier-C,2024-09-03,1950
-WH-A,Tablet,452.0,90,Supplier-C,2024-12-31,1750
-WH-D,Mouse,,241,Supplier-Z,2025-01-04,1520
-WH-D,Router,380.0,93,Supplier-A,2025-01-22,2120
-WH-E,Router,466.0,96,Supplier-Z,2025-06-01,2150
-WH-E,Monitor,174.0,204,Supplier-Z,2026-01-21,3150
-WH-A,Router,,126,Supplier-A,2024-09-07,1450
-WH-B,Tablet,266.0,206,Supplier-X,2025-12-14,1850
-WH-E,Printer,565.0,294,Supplier-Z,2025-05-15,3570
-WH-A,Mouse,60.0,231,Supplier-A,2025-11-25,900
-WH-A,Keyboard,156.0,207,Supplier-Z,2025-02-19,1000
-WH-E,SSD,162.0,225,Supplier-Y,2024-08-26,7250
-WH-C,Printer,440.0,234,Supplier-C,2025-12-09,3370
-WH-B,Mobile,478.0,163,Supplier-A,2025-08-08,1800
-WH-A,Mobile,547.0,202,Supplier-A,2024-07-28,1550
-WH-B,Laptop,214.0,134,Supplier-X,2025-12-13,2150
-WH-A,SSD,436.0,71,Supplier-Y,2024-07-28,6500
-WH-C,Keyboard,,74,Supplier-Y,2025-08-24,1500
-WH-C,Router,,201,Supplier-B,2026-01-09,1850
-WH-D,Monitor,,162,Supplier-Z,2024-12-13,3070
-WH-E,Mouse,431.0,100,Supplier-Y,2025-09-04,1500
-WH-D,Router,504.0,222,Supplier-A,2024-12-31,2120
-WH-D,SSD,283.0,291,Supplier-C,2026-06-30,7220
-WH-B,Mobile,390.0,249,Supplier-Y,2025-05-16,1650
-WH-D,Hard Disk,444.0,236,Supplier-C,2024-11-19,1920
-WH-C,SSD,460.0,54,Supplier-Z,2025-05-07,7200
-WH-A,Mouse,90.0,159,Supplier-B,2024-12-21,700
-WH-A,Tablet,61.0,127,Supplier-C,2026-06-22,1750
-WH-E,Router,,243,Supplier-X,2024-12-20,1950
-WH-E,Monitor,231.0,215,Supplier-Y,2026-07-04,3050
-WH-B,Tablet,360.0,56,Supplier-A,2025-11-04,2100
-WH-D,Monitor,418.0,161,Supplier-Z,2024-08-28,3070
-WH-E,Router,350.0,286,Supplier-C,2025-10-18,2100
-WH-D,Router,162.0,51,Supplier-B,2025-11-11,1920
-WH-B,Laptop,242.0,162,Supplier-A,2024-11-25,2400
-WH-B,Mobile,497.0,154,Supplier-A,2025-12-31,1800
+WH-D,Hard Disk,,149,Supplier-A,2026-02-01,2020
+WH-D,Keyboard,,209,Supplier-B,2024-11-17,1520
+WH-D,Tablet,29.0,227,Supplier-Y,2025-02-23,2370
+WH-A,Printer,464.0,92,Supplier-C,2025-05-11,2770
+WH-C,Monitor,334.0,220,Supplier-X,2024-11-02,2800
+WH-D,Monitor,284.0,87,Supplier-C,2026-01-21,3020
+WH-E,Hard Disk,530.0,112,Supplier-B,2024-11-05,1900
+WH-B,Mouse,445.0,173,Supplier-X,2024-09-23,900
+WH-C,Printer,373.0,182,Supplier-Y,2026-04-18,3320
+WH-A,SSD,515.0,97,Supplier-C,2024-12-15,6550
+WH-C,Monitor,594.0,185,Supplier-B,2026-02-23,2850
+WH-C,SSD,569.0,223,Supplier-A,2025-09-26,7250
+WH-C,Tablet,387.0,110,Supplier-Y,2024-12-07,2300
+WH-D,Keyboard,63.0,90,Supplier-Z,2025-02-06,1670
+WH-B,Mouse,434.0,211,Supplier-A,2026-03-16,1150
+WH-D,Hard Disk,,182,Supplier-Y,2025-05-03,1870
+WH-C,Keyboard,73.0,154,Supplier-A,2025-03-04,1650
+WH-B,Mouse,456.0,142,Supplier-A,2025-04-28,1150
+WH-A,Mobile,557.0,217,Supplier-Z,2026-03-13,1500
+WH-D,Keyboard,312.0,242,Supplier-X,2024-10-15,1470
+WH-D,Tablet,444.0,211,Supplier-B,2025-03-21,2320
+WH-C,Printer,293.0,289,Supplier-Z,2024-10-31,3420
+WH-B,Mobile,367.0,145,Supplier-A,2026-04-30,1800
+WH-E,Hard Disk,140.0,222,Supplier-X,2024-12-15,1850
+WH-C,Hard Disk,,215,Supplier-Y,2026-01-14,1800
+WH-D,Printer,,236,Supplier-A,2024-07-05,3540
+WH-A,Tablet,176.0,109,Supplier-Y,2025-01-28,1700
+WH-C,Hard Disk,,91,Supplier-B,2024-12-26,1750
+WH-E,Monitor,24.0,288,Supplier-A,2025-10-01,3200
+WH-B,SSD,,57,Supplier-Y,2025-08-23,6750
+WH-E,Tablet,76.0,160,Supplier-Y,2024-09-19,2450
+WH-E,Tablet,586.0,61,Supplier-Z,2026-05-16,2550
+WH-A,Mobile,151.0,281,Supplier-Y,2026-05-07,1400
+WH-C,Tablet,522.0,297,Supplier-A,2025-08-30,2450
+WH-E,Router,141.0,121,Supplier-B,2026-05-05,2000
+WH-A,Printer,70.0,52,Supplier-Z,2025-01-28,2820
+WH-C,Mouse,330.0,136,Supplier-X,2025-09-25,1250
+WH-C,Printer,79.0,294,Supplier-C,2024-08-04,3370
+WH-E,Mouse,251.0,296,Supplier-Z,2026-02-22,1600
+WH-E,Keyboard,28.0,256,Supplier-B,2026-03-23,1600
+WH-A,Printer,183.0,181,Supplier-Z,2025-07-07,2820
+WH-E,Mouse,536.0,206,Supplier-A,2024-11-08,1650
+WH-E,SSD,64.0,149,Supplier-X,2025-08-08,7150
+WH-E,SSD,325.0,114,Supplier-X,2026-02-09,7150
+WH-C,Mobile,545.0,119,Supplier-Y,2024-12-23,2000
+WH-A,Router,371.0,257,Supplier-X,2025-12-22,1200
+WH-D,Hard Disk,454.0,143,Supplier-Z,2026-03-18,1970
+WH-E,Monitor,525.0,144,Supplier-A,2026-06-24,3200
+WH-E,Hard Disk,457.0,283,Supplier-C,2025-12-11,2000
+WH-C,Tablet,311.0,217,Supplier-C,2026-02-11,2350
+WH-A,Tablet,379.0,200,Supplier-X,2026-04-14,1600
+WH-C,Hard Disk,120.0,282,Supplier-C,2024-09-05,1850
+WH-E,Printer,447.0,153,Supplier-B,2024-10-10,3420
+WH-A,Laptop,,67,Supplier-B,2025-03-01,1950
+WH-E,Keyboard,137.0,270,Supplier-B,2025-10-15,1600
+WH-E,Mobile,90.0,237,Supplier-X,2025-09-01,2050
+WH-A,Printer,275.0,192,Supplier-A,2026-06-27,2870
+WH-B,Keyboard,123.0,268,Supplier-X,2025-12-12,1050
+WH-A,SSD,258.0,200,Supplier-Y,2026-04-19,6500
+WH-A,Mobile,591.0,95,Supplier-X,2025-08-11,1300
+WH-D,Keyboard,185.0,178,Supplier-A,2025-09-08,1720
+WH-E,Hard Disk,229.0,130,Supplier-B,2025-04-09,1900
+WH-D,Mobile,379.0,103,Supplier-Y,2024-09-14,2070
+WH-A,Monitor,594.0,56,Supplier-A,2026-05-16,2450
+WH-C,Laptop,334.0,146,Supplier-C,2026-05-07,2650
+WH-C,Laptop,338.0,252,Supplier-B,2025-06-08,2550
+WH-D,SSD,291.0,286,Supplier-C,2026-04-21,7220
+WH-B,SSD,77.0,278,Supplier-X,2025-11-03,6650
+WH-E,Printer,262.0,241,Supplier-B,2026-04-10,3420
+WH-E,Printer,231.0,207,Supplier-Y,2025-11-09,3470
+WH-C,Printer,150.0,92,Supplier-C,2025-10-21,3370
+WH-D,Keyboard,98.0,126,Supplier-A,2025-01-10,1720
+WH-A,Keyboard,98.0,299,Supplier-C,2025-12-05,950
+WH-C,Printer,296.0,75,Supplier-C,2025-05-16,3370
+WH-D,Laptop,263.0,143,Supplier-A,2024-08-23,2820
+WH-A,SSD,559.0,263,Supplier-B,2024-10-06,6450
+WH-C,Router,89.0,117,Supplier-X,2025-02-06,1800
+WH-B,Router,,98,Supplier-A,2026-02-14,1700
+WH-A,Laptop,556.0,256,Supplier-Z,2025-01-14,2100
+WH-C,Mobile,488.0,111,Supplier-X,2026-06-08,1900
+WH-C,Mobile,585.0,149,Supplier-X,2026-03-07,1900
+WH-E,Laptop,172.0,69,Supplier-X,2025-04-25,2650
+WH-E,SSD,,279,Supplier-C,2026-02-11,7300
+WH-E,Laptop,460.0,199,Supplier-Z,2024-09-04,2850
+WH-A,Mouse,576.0,181,Supplier-Z,2025-08-27,850
+WH-B,Tablet,422.0,132,Supplier-C,2024-07-07,2000
+WH-C,SSD,397.0,290,Supplier-C,2025-10-30,7150
+WH-E,Keyboard,591.0,265,Supplier-Y,2026-04-24,1650
+WH-A,Tablet,386.0,215,Supplier-C,2025-03-12,1750
+WH-C,Hard Disk,78.0,120,Supplier-A,2026-03-06,1950
+WH-B,Laptop,442.0,130,Supplier-A,2026-04-25,2400
+WH-B,Hard Disk,265.0,102,Supplier-C,2024-09-06,1500
+WH-B,Monitor,84.0,242,Supplier-Z,2025-09-07,2650
+WH-A,Printer,485.0,98,Supplier-Z,2026-05-12,2820
+WH-C,Keyboard,442.0,256,Supplier-A,2025-07-09,1650
+WH-A,Tablet,346.0,124,Supplier-B,2024-08-27,1650
+WH-B,Router,414.0,219,Supplier-Z,2026-01-27,1650
+WH-B,Mobile,363.0,181,Supplier-Z,2026-05-09,1750
+WH-E,Router,72.0,281,Supplier-Z,2025-08-25,2150
+WH-C,Router,51.0,151,Supplier-A,2026-04-24,2050
+WH-E,Tablet,111.0,280,Supplier-C,2026-01-15,2500
+WH-E,Hard Disk,365.0,93,Supplier-Y,2026-03-18,1950
+WH-C,Mouse,477.0,180,Supplier-C,2025-12-06,1400
+WH-A,Monitor,160.0,292,Supplier-Z,2026-03-30,2400
+WH-A,Monitor,417.0,266,Supplier-B,2024-12-24,2250
+WH-A,Mouse,123.0,291,Supplier-C,2026-05-12,800
+WH-E,Printer,236.0,297,Supplier-Y,2024-11-07,3470
+WH-B,Keyboard,549.0,158,Supplier-X,2026-05-09,1050
+WH-D,Router,265.0,57,Supplier-X,2025-07-23,1870
+WH-D,Mouse,301.0,130,Supplier-B,2026-05-28,1370
+WH-B,Keyboard,164.0,96,Supplier-X,2026-01-13,1050
+WH-A,SSD,84.0,214,Supplier-X,2025-09-10,6400
+WH-B,Hard Disk,499.0,189,Supplier-Y,2025-04-02,1450
+WH-B,Mouse,191.0,71,Supplier-B,2024-12-21,950
+WH-C,Keyboard,349.0,160,Supplier-Y,2026-04-30,1500
+WH-C,Monitor,449.0,245,Supplier-C,2025-08-03,2950
+WH-E,Printer,566.0,70,Supplier-C,2025-10-10,3520
+WH-E,Router,111.0,202,Supplier-C,2026-04-14,2100
+WH-E,Router,474.0,225,Supplier-A,2025-01-26,2200
+WH-B,SSD,500.0,129,Supplier-Y,2024-07-21,6750
+WH-A,Keyboard,,144,Supplier-Y,2025-08-30,900
+WH-D,Tablet,450.0,246,Supplier-Y,2025-07-10,2370
+WH-B,SSD,387.0,250,Supplier-C,2025-12-02,6800
+WH-A,Printer,340.0,167,Supplier-X,2026-02-19,2620
+WH-D,Mobile,,262,Supplier-X,2025-03-13,1970
+WH-B,Tablet,300.0,127,Supplier-C,2025-06-02,2000
+WH-C,Printer,87.0,212,Supplier-B,2026-05-04,3270
+WH-C,Monitor,,215,Supplier-Z,2025-09-20,3000
+WH-B,Keyboard,597.0,182,Supplier-Y,2025-01-06,1150
+WH-E,Laptop,473.0,240,Supplier-X,2025-04-29,2650
+WH-D,Keyboard,,133,Supplier-Z,2026-02-07,1670
+WH-B,Mouse,317.0,107,Supplier-A,2025-06-16,1150
+WH-D,Keyboard,192.0,136,Supplier-C,2025-09-05,1620
+WH-E,Hard Disk,395.0,201,Supplier-C,2024-12-06,2000
+WH-E,Printer,412.0,202,Supplier-A,2025-03-28,3620
+WH-C,Monitor,327.0,151,Supplier-Z,2026-04-24,3000
+WH-A,Keyboard,599.0,203,Supplier-C,2025-09-10,950
+WH-A,Router,306.0,154,Supplier-B,2025-08-03,1250
+WH-B,Router,289.0,294,Supplier-X,2025-09-13,1450
+WH-D,Monitor,130.0,90,Supplier-Z,2025-10-28,3070
+WH-D,SSD,573.0,62,Supplier-X,2025-03-26,7070
+WH-C,Laptop,430.0,272,Supplier-Y,2025-01-06,2600
+WH-E,Keyboard,174.0,63,Supplier-A,2025-12-04,1800
+WH-C,Mobile,415.0,74,Supplier-Z,2025-05-10,2100
+WH-A,Printer,313.0,207,Supplier-A,2025-07-01,2870
+WH-B,Monitor,384.0,263,Supplier-Y,2026-02-10,2550
+WH-C,Monitor,389.0,219,Supplier-Y,2026-05-04,2900
+WH-D,SSD,590.0,207,Supplier-B,2026-04-11,7120
+WH-D,Printer,,130,Supplier-A,2024-08-13,3540
+WH-D,Printer,415.0,162,Supplier-C,2026-07-01,3440
+WH-E,Tablet,393.0,266,Supplier-X,2026-03-14,2350
+WH-B,Hard Disk,,293,Supplier-B,2026-02-05,1400
+WH-E,Mobile,63.0,252,Supplier-A,2025-01-16,2300
+WH-E,Tablet,23.0,300,Supplier-C,2025-08-21,2500
+WH-C,Hard Disk,191.0,297,Supplier-B,2024-11-10,1750
+WH-A,Printer,89.0,265,Supplier-Y,2026-01-12,2720
+WH-E,Monitor,21.0,86,Supplier-C,2026-05-03,3100
+WH-A,Monitor,201.0,175,Supplier-Z,2025-08-27,2400
+WH-E,Keyboard,157.0,76,Supplier-C,2024-08-07,1700
+WH-E,Keyboard,598.0,268,Supplier-Z,2025-12-26,1750
+WH-B,Laptop,449.0,255,Supplier-B,2026-05-22,2200
+WH-A,Router,304.0,111,Supplier-Z,2024-09-08,1400
+WH-E,Laptop,246.0,204,Supplier-Y,2024-12-02,2750
+WH-E,Mobile,99.0,86,Supplier-A,2025-05-10,2300
+WH-A,Monitor,184.0,82,Supplier-X,2025-07-16,2200
+WH-D,Keyboard,209.0,214,Supplier-X,2026-05-17,1470
+WH-C,SSD,147.0,232,Supplier-X,2025-10-05,7000
+WH-B,Tablet,348.0,299,Supplier-Z,2025-01-18,2050
+WH-A,Mouse,126.0,237,Supplier-Y,2025-02-06,750
+WH-E,Mouse,107.0,196,Supplier-Y,2025-03-18,1500
+WH-A,Keyboard,274.0,271,Supplier-A,2024-11-24,1050
+WH-E,Mouse,97.0,75,Supplier-X,2025-10-30,1400
+WH-B,Laptop,485.0,147,Supplier-Z,2025-08-23,2350
+WH-A,Hard Disk,348.0,248,Supplier-Z,2026-03-03,1300
+WH-C,Router,155.0,244,Supplier-Z,2025-01-26,2000
+WH-D,SSD,529.0,177,Supplier-A,2025-06-29,7320
+WH-D,Mobile,518.0,223,Supplier-Z,2026-01-24,2170
+WH-E,SSD,426.0,256,Supplier-C,2025-08-22,7300
+WH-B,Keyboard,96.0,95,Supplier-A,2025-05-11,1300
+WH-B,Tablet,,158,Supplier-X,2025-03-30,1850
+WH-C,Keyboard,220.0,234,Supplier-Y,2025-04-18,1500
+WH-D,Router,597.0,107,Supplier-Z,2024-11-20,2070
+WH-E,Keyboard,,258,Supplier-A,2026-04-15,1800
+WH-C,Mouse,324.0,208,Supplier-A,2025-10-17,1500
+WH-C,Tablet,98.0,100,Supplier-B,2025-06-01,2250
+WH-C,Hard Disk,122.0,202,Supplier-B,2026-06-14,1750
+WH-C,Router,435.0,256,Supplier-Y,2024-11-30,1900
+WH-B,Hard Disk,,62,Supplier-Z,2026-05-15,1550
+WH-B,Laptop,277.0,236,Supplier-Y,2026-04-18,2250
+WH-E,Mobile,282.0,235,Supplier-C,2026-03-07,2200
+WH-C,Mouse,573.0,169,Supplier-A,2024-07-25,1500
+WH-A,SSD,25.0,86,Supplier-B,2024-10-16,6450
+WH-E,Monitor,,165,Supplier-Y,2025-02-06,3050
+WH-E,Router,380.0,248,Supplier-Z,2026-02-21,2150
+WH-E,Tablet,573.0,166,Supplier-A,2026-02-16,2600
+WH-A,Tablet,274.0,172,Supplier-Y,2025-12-01,1700
+WH-C,Mouse,,245,Supplier-A,2024-09-16,1500
+WH-C,Hard Disk,400.0,260,Supplier-A,2026-01-16,1950
+WH-B,Router,142.0,168,Supplier-Z,2026-01-28,1650
+WH-E,Keyboard,373.0,77,Supplier-X,2026-01-03,1550
+WH-A,Mouse,,111,Supplier-Z,2025-12-31,850
+WH-D,Tablet,,194,Supplier-X,2025-08-01,2270
+WH-A,Router,223.0,285,Supplier-X,2026-06-23,1200
+WH-A,Laptop,490.0,210,Supplier-X,2025-09-06,1900
+WH-A,Monitor,358.0,198,Supplier-C,2025-03-08,2350
+WH-B,Mouse,347.0,156,Supplier-Y,2026-05-15,1000
+WH-A,SSD,,155,Supplier-A,2024-12-22,6650
+WH-D,Tablet,151.0,121,Supplier-B,2026-04-15,2320
+WH-D,Mobile,,127,Supplier-Y,2025-02-11,2070
+WH-E,Laptop,,267,Supplier-C,2025-01-14,2800
+WH-B,Keyboard,457.0,239,Supplier-Y,2026-06-21,1150
+WH-A,Hard Disk,368.0,170,Supplier-Z,2025-03-06,1300
+WH-B,Printer,430.0,242,Supplier-C,2025-10-16,3020
+WH-D,Tablet,420.0,106,Supplier-B,2024-10-07,2320
+WH-D,Printer,510.0,189,Supplier-Z,2026-02-25,3490
+WH-D,Hard Disk,480.0,204,Supplier-X,2024-11-29,1770
+WH-E,SSD,,89,Supplier-A,2025-03-19,7400
+WH-E,Monitor,181.0,157,Supplier-A,2025-01-08,3200
+WH-D,Hard Disk,89.0,173,Supplier-X,2026-02-19,1770
+WH-C,Keyboard,325.0,217,Supplier-Z,2025-12-02,1600
+WH-A,Laptop,581.0,105,Supplier-Z,2024-12-29,2100
+WH-C,Monitor,433.0,292,Supplier-Y,2025-12-13,2900
+WH-B,Mouse,135.0,271,Supplier-X,2026-04-12,900
+WH-E,SSD,71.0,241,Supplier-X,2025-03-23,7150
+WH-E,SSD,193.0,228,Supplier-B,2024-12-12,7200
+WH-A,Monitor,594.0,179,Supplier-Y,2024-07-24,2300
+WH-B,Laptop,571.0,139,Supplier-B,2025-05-30,2200
+WH-C,Hard Disk,192.0,73,Supplier-B,2025-03-25,1750
+WH-E,Keyboard,545.0,292,Supplier-Z,2024-07-20,1750
+WH-B,Keyboard,315.0,120,Supplier-X,2025-07-19,1050
+WH-D,Hard Disk,95.0,82,Supplier-X,2025-11-24,1770
+WH-A,Laptop,521.0,214,Supplier-B,2025-01-13,1950
+WH-A,Keyboard,586.0,175,Supplier-A,2024-09-20,1050
+WH-D,Printer,92.0,111,Supplier-X,2025-06-03,3290
+WH-E,Monitor,402.0,129,Supplier-C,2025-06-18,3100
+WH-E,Tablet,582.0,218,Supplier-Y,2025-05-26,2450
+WH-C,Hard Disk,352.0,199,Supplier-C,2026-03-01,1850
+WH-B,Mouse,,88,Supplier-X,2025-01-23,900
+WH-D,Hard Disk,280.0,109,Supplier-Y,2026-01-15,1870
+WH-B,SSD,305.0,151,Supplier-Z,2024-09-18,6850
+WH-B,SSD,304.0,106,Supplier-A,2026-01-31,6900
+WH-E,Keyboard,513.0,115,Supplier-Y,2025-06-07,1650
+WH-A,Mobile,371.0,86,Supplier-C,2026-07-04,1450
+WH-A,Printer,340.0,156,Supplier-A,2025-12-27,2870
+WH-E,SSD,263.0,78,Supplier-A,2024-08-26,7400
+WH-A,Mobile,492.0,159,Supplier-C,2024-11-14,1450
+WH-A,Keyboard,454.0,222,Supplier-A,2024-11-04,1050
+WH-C,Laptop,202.0,274,Supplier-X,2024-12-01,2500
+WH-E,Tablet,408.0,157,Supplier-Y,2025-02-14,2450
+WH-E,Mobile,390.0,221,Supplier-C,2026-06-03,2200
+WH-C,Hard Disk,327.0,219,Supplier-Z,2024-12-29,1900
+WH-E,Tablet,349.0,122,Supplier-B,2024-08-05,2400
+WH-E,Monitor,317.0,103,Supplier-Y,2026-04-26,3050
+WH-E,Laptop,30.0,213,Supplier-Y,2025-05-23,2750
+WH-D,Monitor,80.0,132,Supplier-Z,2026-06-24,3070
+WH-C,Mobile,,158,Supplier-C,2025-09-21,2050
+WH-D,Router,208.0,254,Supplier-Y,2026-05-27,1970
+WH-D,Hard Disk,63.0,245,Supplier-X,2026-04-28,1770
+WH-A,Monitor,390.0,198,Supplier-A,2026-01-26,2450
+WH-B,Mouse,387.0,73,Supplier-X,2025-01-11,900
+WH-A,Printer,86.0,200,Supplier-B,2025-12-03,2670
+WH-E,SSD,,53,Supplier-A,2025-01-27,7400
+WH-D,SSD,506.0,279,Supplier-A,2025-04-18,7320
+WH-A,SSD,218.0,79,Supplier-C,2024-11-10,6550
+WH-D,Printer,167.0,168,Supplier-A,2025-08-25,3540
+WH-A,Keyboard,502.0,105,Supplier-X,2025-02-03,800
+WH-B,SSD,314.0,110,Supplier-A,2026-01-13,6900
+WH-A,Hard Disk,409.0,93,Supplier-A,2026-06-24,1350
+WH-C,Printer,,96,Supplier-Z,2026-05-13,3420
+WH-B,Monitor,132.0,196,Supplier-X,2026-02-10,2450
+WH-D,Printer,268.0,235,Supplier-X,2026-05-20,3290
+WH-C,Mobile,404.0,56,Supplier-B,2025-11-14,1950
+WH-A,Mobile,592.0,122,Supplier-B,2026-06-07,1350
+WH-C,Keyboard,106.0,133,Supplier-C,2026-05-17,1550
+WH-E,Mobile,221.0,97,Supplier-B,2024-11-02,2100
+WH-E,Monitor,,67,Supplier-C,2024-09-22,3100
+WH-D,Keyboard,129.0,148,Supplier-Y,2025-08-26,1570
+WH-D,Laptop,29.0,188,Supplier-Y,2025-01-04,2670
+WH-E,Monitor,,160,Supplier-Z,2025-11-30,3150
+WH-A,SSD,540.0,264,Supplier-A,2024-10-27,6650
+WH-B,Router,285.0,183,Supplier-Z,2024-12-15,1650
+WH-E,Laptop,595.0,258,Supplier-Z,2024-12-03,2850
+WH-E,Laptop,357.0,294,Supplier-B,2024-07-20,2700
+WH-A,Mouse,177.0,83,Supplier-B,2025-01-13,700
+WH-D,Keyboard,66.0,154,Supplier-C,2025-01-25,1620
+WH-B,Mouse,450.0,240,Supplier-Y,2026-06-04,1000
+WH-B,Mouse,267.0,193,Supplier-B,2024-10-21,950
+WH-D,Monitor,35.0,127,Supplier-Z,2024-08-04,3070
+WH-E,Hard Disk,64.0,165,Supplier-X,2025-04-21,1850
+WH-B,Hard Disk,597.0,166,Supplier-B,2025-05-07,1400
+WH-C,Monitor,149.0,238,Supplier-Y,2025-10-31,2900
+WH-C,Tablet,228.0,226,Supplier-X,2025-09-25,2200
+WH-C,Mobile,578.0,101,Supplier-B,2025-02-24,1950
+WH-E,Hard Disk,26.0,218,Supplier-A,2025-01-06,2100
+WH-B,Mouse,183.0,234,Supplier-B,2025-02-06,950
+WH-E,SSD,426.0,258,Supplier-Z,2025-12-08,7350
+WH-E,Hard Disk,311.0,216,Supplier-C,2025-03-23,2000
+WH-B,Mouse,422.0,95,Supplier-X,2026-04-28,900
+WH-D,SSD,100.0,299,Supplier-X,2024-10-21,7070
+WH-D,Mobile,432.0,226,Supplier-A,2025-09-14,2220
+WH-C,Laptop,109.0,117,Supplier-A,2024-08-13,2750
+WH-E,Router,410.0,298,Supplier-X,2026-05-05,1950
+WH-D,Printer,409.0,224,Supplier-Y,2024-08-30,3390
+WH-D,Keyboard,23.0,55,Supplier-C,2024-08-18,1620
+WH-A,Tablet,439.0,85,Supplier-A,2025-12-09,1850
+WH-C,SSD,572.0,84,Supplier-A,2026-06-09,7250
+WH-B,Mobile,550.0,238,Supplier-X,2025-11-28,1550
+WH-E,Laptop,416.0,289,Supplier-Z,2024-10-11,2850
+WH-C,Laptop,223.0,81,Supplier-A,2025-05-03,2750
+WH-B,Tablet,188.0,185,Supplier-X,2024-10-28,1850
+WH-A,Monitor,173.0,170,Supplier-X,2025-09-12,2200
+WH-D,Tablet,197.0,212,Supplier-A,2024-12-10,2520
+WH-E,SSD,337.0,89,Supplier-B,2026-06-29,7200
+WH-C,Mobile,303.0,66,Supplier-A,2024-08-28,2150
+WH-A,Monitor,242.0,235,Supplier-B,2025-10-09,2250
+WH-C,Keyboard,497.0,181,Supplier-Z,2025-11-27,1600
+WH-E,Keyboard,82.0,214,Supplier-A,2026-02-17,1800
+WH-E,Laptop,,70,Supplier-X,2026-05-05,2650
+WH-E,Monitor,349.0,145,Supplier-C,2024-10-11,3100
+WH-A,Keyboard,,79,Supplier-A,2025-07-28,1050
+WH-C,Printer,214.0,180,Supplier-B,2024-08-28,3270
+WH-B,Monitor,,219,Supplier-Z,2025-11-16,2650
+WH-B,Printer,346.0,145,Supplier-X,2026-01-05,2870
+WH-D,Tablet,558.0,101,Supplier-A,2025-12-31,2520
+WH-C,Keyboard,128.0,183,Supplier-B,2025-01-03,1450
+WH-E,Printer,448.0,179,Supplier-B,2024-07-11,3420
+WH-D,SSD,87.0,206,Supplier-Y,2024-08-16,7170
+WH-D,Mouse,,77,Supplier-Z,2025-08-01,1520
+WH-D,Keyboard,417.0,282,Supplier-Z,2025-11-01,1670
+WH-C,Hard Disk,372.0,171,Supplier-Z,2025-05-12,1900
+WH-B,Keyboard,301.0,256,Supplier-B,2025-12-07,1100
+WH-E,Mouse,539.0,294,Supplier-X,2024-08-29,1400
+WH-B,Monitor,488.0,154,Supplier-Z,2025-05-18,2650
+WH-B,SSD,387.0,147,Supplier-X,2024-09-26,6650
+WH-A,Laptop,162.0,120,Supplier-C,2025-11-13,2050
+WH-B,Router,158.0,172,Supplier-C,2025-07-17,1600
+WH-E,Mouse,309.0,215,Supplier-B,2025-06-04,1450
+WH-A,Keyboard,155.0,82,Supplier-C,2024-08-08,950
+WH-D,Printer,,77,Supplier-Y,2025-02-11,3390
+WH-D,Hard Disk,29.0,271,Supplier-X,2025-11-09,1770
+WH-A,Keyboard,418.0,194,Supplier-Y,2024-07-12,900
+WH-E,Router,358.0,99,Supplier-Z,2025-12-28,2150
+WH-D,Monitor,215.0,191,Supplier-A,2026-05-04,3120
+WH-E,SSD,294.0,169,Supplier-A,2026-02-21,7400
+WH-B,Mobile,268.0,239,Supplier-B,2025-04-25,1600
+WH-A,SSD,,257,Supplier-A,2026-02-05,6650
+WH-D,Router,,198,Supplier-Z,2025-11-11,2070
+WH-C,Tablet,94.0,179,Supplier-A,2025-12-27,2450
+WH-B,Laptop,94.0,112,Supplier-X,2025-04-26,2150
+WH-A,Mobile,344.0,137,Supplier-Y,2025-05-15,1400
+WH-E,Hard Disk,470.0,272,Supplier-Z,2024-08-23,2050
+WH-A,Mobile,493.0,202,Supplier-B,2025-08-27,1350
+WH-B,SSD,,99,Supplier-Z,2024-08-22,6850
+WH-C,Monitor,382.0,113,Supplier-C,2025-02-17,2950
+WH-B,Tablet,189.0,247,Supplier-C,2024-12-26,2000
+WH-D,SSD,522.0,226,Supplier-Y,2026-03-22,7170
+WH-B,Printer,481.0,292,Supplier-X,2024-07-10,2870
+WH-E,Laptop,313.0,289,Supplier-X,2025-10-01,2650
+WH-B,Router,,164,Supplier-Z,2025-01-09,1650
+WH-B,Tablet,274.0,292,Supplier-B,2025-07-27,1900
+WH-B,Hard Disk,85.0,61,Supplier-X,2024-08-12,1350
+WH-C,SSD,104.0,158,Supplier-A,2026-06-03,7250
+WH-C,Keyboard,343.0,80,Supplier-Y,2024-08-25,1500
+WH-B,Monitor,510.0,80,Supplier-C,2025-10-29,2600
+WH-C,Mouse,546.0,298,Supplier-X,2025-04-12,1250
+WH-E,SSD,39.0,203,Supplier-X,2025-11-21,7150
+WH-E,SSD,369.0,217,Supplier-Y,2025-03-22,7250
+WH-D,Keyboard,496.0,52,Supplier-C,2024-10-01,1620
+WH-C,Monitor,232.0,247,Supplier-Z,2024-12-18,3000
+WH-E,Tablet,599.0,90,Supplier-A,2026-02-02,2600
+WH-B,Keyboard,115.0,53,Supplier-B,2024-09-13,1100
+WH-C,SSD,27.0,151,Supplier-B,2025-04-13,7050
+WH-C,Tablet,125.0,272,Supplier-C,2026-01-13,2350
+WH-E,SSD,91.0,275,Supplier-C,2024-09-28,7300
+WH-C,Hard Disk,,256,Supplier-Z,2024-12-25,1900
+WH-B,Mouse,60.0,154,Supplier-C,2025-02-26,1050
+WH-E,Mouse,100.0,243,Supplier-A,2025-06-25,1650
+WH-D,Laptop,491.0,106,Supplier-A,2026-05-23,2820
+WH-C,Monitor,370.0,73,Supplier-Z,2025-07-10,3000
+WH-A,Mouse,136.0,284,Supplier-A,2024-09-25,900
+WH-D,Mobile,153.0,239,Supplier-C,2025-07-19,2120
+WH-A,SSD,251.0,205,Supplier-A,2025-05-08,6650
+WH-C,SSD,447.0,199,Supplier-A,2025-06-23,7250
+WH-B,Printer,367.0,277,Supplier-A,2026-06-18,3120
+WH-A,Mouse,230.0,82,Supplier-Y,2025-02-21,750
+WH-E,Keyboard,295.0,190,Supplier-Y,2025-09-02,1650
+WH-E,Monitor,422.0,146,Supplier-Z,2026-01-02,3150
+WH-D,Laptop,269.0,125,Supplier-X,2025-03-07,2570
+WH-A,SSD,529.0,98,Supplier-A,2025-11-23,6650
+WH-C,Laptop,593.0,266,Supplier-Y,2024-09-15,2600
+WH-D,Mouse,519.0,233,Supplier-C,2025-07-03,1470
+WH-A,Laptop,131.0,236,Supplier-A,2024-11-06,2150
+WH-C,Mouse,146.0,179,Supplier-A,2026-03-23,1500
+WH-E,SSD,597.0,282,Supplier-X,2025-11-10,7150
+WH-B,Mouse,295.0,241,Supplier-Y,2025-12-16,1000
+WH-D,Mouse,596.0,52,Supplier-X,2025-03-29,1320
+WH-B,Router,34.0,115,Supplier-C,2026-01-23,1600
+WH-D,Tablet,250.0,171,Supplier-B,2025-05-14,2320
+WH-B,Mobile,183.0,228,Supplier-Y,2025-12-11,1650
+WH-B,Router,82.0,169,Supplier-X,2024-07-20,1450
+WH-E,Keyboard,465.0,137,Supplier-C,2024-07-25,1700
+WH-B,Mobile,216.0,184,Supplier-X,2024-10-14,1550
+WH-C,SSD,579.0,244,Supplier-X,2026-06-10,7000
+WH-E,Tablet,342.0,123,Supplier-A,2025-12-20,2600
+WH-A,Router,144.0,255,Supplier-X,2025-05-20,1200
+WH-B,Monitor,,264,Supplier-Y,2025-08-12,2550
+WH-C,Router,254.0,196,Supplier-Y,2026-06-02,1900
+WH-B,Router,347.0,257,Supplier-X,2025-05-20,1450
+WH-A,SSD,89.0,267,Supplier-X,2024-09-15,6400
+WH-E,Laptop,569.0,229,Supplier-Z,2025-12-05,2850
+WH-D,Router,137.0,67,Supplier-Z,2024-10-17,2070
+WH-E,Mouse,198.0,270,Supplier-A,2025-08-27,1650
+WH-A,Hard Disk,488.0,247,Supplier-X,2026-03-23,1100
+WH-A,Monitor,100.0,200,Supplier-A,2025-07-09,2450
+WH-E,SSD,,210,Supplier-X,2024-11-18,7150
+WH-E,Printer,46.0,131,Supplier-C,2025-03-18,3520
+WH-B,Tablet,122.0,200,Supplier-B,2025-10-18,1900
+WH-B,Printer,184.0,267,Supplier-C,2025-12-05,3020
+WH-B,SSD,593.0,191,Supplier-Y,2024-10-02,6750
+WH-A,Keyboard,60.0,222,Supplier-A,2025-09-27,1050
+WH-B,SSD,458.0,117,Supplier-B,2024-07-28,6700
+WH-B,Keyboard,284.0,170,Supplier-X,2024-10-09,1050
+WH-A,Hard Disk,95.0,254,Supplier-Z,2025-08-26,1300
+WH-D,Mouse,175.0,104,Supplier-C,2025-09-01,1470
+WH-E,Laptop,,102,Supplier-Y,2024-09-05,2750
+WH-A,Mobile,394.0,84,Supplier-A,2024-09-01,1550
+WH-E,Keyboard,322.0,154,Supplier-C,2026-02-25,1700
+WH-C,Mobile,298.0,240,Supplier-X,2026-01-22,1900
+WH-B,Hard Disk,524.0,264,Supplier-Y,2026-06-18,1450
+WH-C,Hard Disk,337.0,140,Supplier-X,2024-12-16,1700
+WH-C,SSD,150.0,214,Supplier-A,2025-06-10,7250
+WH-D,Mobile,119.0,165,Supplier-Z,2025-05-28,2170
+WH-E,Laptop,316.0,277,Supplier-A,2025-01-14,2900
+WH-A,Keyboard,447.0,289,Supplier-B,2025-08-15,850
+WH-A,SSD,,94,Supplier-C,2024-12-08,6550
+WH-C,Mouse,93.0,221,Supplier-Y,2026-05-28,1350
+WH-A,SSD,439.0,53,Supplier-A,2025-04-29,6650
+WH-D,Mouse,,152,Supplier-X,2025-06-14,1320
+WH-C,Hard Disk,25.0,154,Supplier-B,2024-10-30,1750
+WH-B,Mouse,384.0,73,Supplier-Y,2025-03-20,1000
+WH-B,SSD,46.0,254,Supplier-Z,2025-08-03,6850
+WH-B,SSD,311.0,203,Supplier-B,2025-09-30,6700
+WH-D,Laptop,274.0,299,Supplier-X,2026-02-16,2570
+WH-C,Keyboard,,234,Supplier-X,2026-05-07,1400
+WH-B,Mouse,293.0,124,Supplier-C,2026-04-10,1050
+WH-A,SSD,569.0,299,Supplier-Y,2026-03-15,6500
+WH-A,Router,258.0,141,Supplier-B,2026-05-02,1250
+WH-B,Router,585.0,173,Supplier-B,2024-11-06,1500
+WH-A,Printer,511.0,125,Supplier-X,2026-07-04,2620
+WH-E,Laptop,568.0,259,Supplier-A,2024-08-03,2900
+WH-B,Mobile,76.0,79,Supplier-A,2026-06-03,1800
+WH-E,SSD,118.0,157,Supplier-C,2025-01-03,7300
+WH-B,SSD,298.0,288,Supplier-Z,2024-11-09,6850
+WH-D,SSD,,166,Supplier-X,2025-05-11,7070
+WH-A,Tablet,113.0,212,Supplier-C,2024-08-18,1750
+WH-B,Mobile,566.0,218,Supplier-Y,2025-07-05,1650
+WH-C,Hard Disk,228.0,224,Supplier-Z,2024-10-31,1900
+WH-C,Printer,289.0,97,Supplier-Z,2025-01-23,3420
+WH-B,Mouse,326.0,131,Supplier-B,2025-11-23,950
+WH-B,Printer,338.0,178,Supplier-C,2024-11-29,3020
+WH-C,Keyboard,,107,Supplier-Y,2026-05-05,1500
+WH-C,Monitor,61.0,67,Supplier-C,2024-11-08,2950
+WH-B,Monitor,90.0,61,Supplier-B,2025-10-30,2500
+WH-D,Monitor,133.0,96,Supplier-X,2024-11-23,2870
+WH-C,Mobile,424.0,223,Supplier-B,2025-05-12,1950
+WH-E,Printer,325.0,51,Supplier-A,2025-12-17,3620
+WH-A,Monitor,,264,Supplier-Y,2025-06-29,2300
+WH-A,Hard Disk,537.0,65,Supplier-X,2026-01-27,1100
+WH-C,Hard Disk,136.0,206,Supplier-A,2025-02-08,1950
+WH-C,Tablet,271.0,134,Supplier-Y,2025-03-07,2300
+WH-A,Keyboard,293.0,110,Supplier-A,2026-01-14,1050
+WH-D,Printer,25.0,87,Supplier-Y,2025-06-22,3390
+WH-E,Mouse,68.0,126,Supplier-A,2025-02-01,1650
+WH-A,Monitor,223.0,129,Supplier-C,2024-09-21,2350
+WH-B,Hard Disk,522.0,227,Supplier-Z,2025-04-06,1550
+WH-D,Laptop,209.0,179,Supplier-C,2024-08-27,2720
+WH-D,Mobile,28.0,182,Supplier-C,2026-02-05,2120
+WH-C,Mouse,283.0,193,Supplier-Z,2024-07-27,1450
+WH-A,Monitor,81.0,110,Supplier-B,2024-11-08,2250
+WH-E,Mobile,65.0,239,Supplier-Y,2026-03-02,2150
+WH-B,Tablet,188.0,77,Supplier-B,2024-07-24,1900
+WH-D,Laptop,144.0,113,Supplier-B,2026-04-13,2620
+WH-D,Keyboard,186.0,212,Supplier-A,2026-01-31,1720
+WH-D,Mouse,160.0,170,Supplier-C,2025-05-04,1470
+WH-D,Tablet,595.0,258,Supplier-Y,2026-04-28,2370
+WH-B,Keyboard,97.0,113,Supplier-A,2025-05-29,1300
+WH-B,Monitor,452.0,187,Supplier-Y,2025-12-29,2550
+WH-A,Tablet,55.0,223,Supplier-B,2026-03-24,1650
+WH-A,Monitor,314.0,190,Supplier-Z,2025-08-04,2400
+WH-D,Mouse,159.0,258,Supplier-A,2025-06-10,1570
+WH-E,SSD,461.0,279,Supplier-X,2025-03-10,7150
+WH-C,Mobile,73.0,145,Supplier-B,2025-05-16,1950
+WH-C,Printer,451.0,267,Supplier-C,2025-06-13,3370
+WH-C,Monitor,573.0,135,Supplier-Z,2025-12-07,3000
+WH-C,Printer,406.0,272,Supplier-A,2025-07-30,3470
+WH-B,Hard Disk,440.0,109,Supplier-A,2025-12-15,1600
+WH-D,Printer,268.0,185,Supplier-B,2026-05-27,3340
+WH-B,Hard Disk,390.0,184,Supplier-X,2025-09-27,1350
+WH-E,Tablet,191.0,218,Supplier-B,2024-09-03,2400
+WH-A,Hard Disk,404.0,80,Supplier-B,2024-12-31,1150
+WH-C,Keyboard,32.0,167,Supplier-B,2025-03-05,1450
+WH-E,Printer,213.0,288,Supplier-A,2026-03-12,3620
+WH-A,SSD,122.0,213,Supplier-Y,2024-07-06,6500
+WH-A,SSD,243.0,171,Supplier-Y,2024-07-09,6500
+WH-E,Keyboard,,256,Supplier-A,2025-05-22,1800
+WH-E,Keyboard,295.0,216,Supplier-Z,2025-06-28,1750
+WH-C,Printer,504.0,148,Supplier-Z,2024-10-02,3420
+WH-B,Printer,502.0,248,Supplier-B,2025-01-04,2920
+WH-D,Keyboard,581.0,109,Supplier-B,2025-11-16,1520
+WH-B,Laptop,340.0,142,Supplier-Z,2025-10-19,2350
+WH-C,Keyboard,,80,Supplier-Z,2024-08-27,1600
+WH-E,SSD,576.0,196,Supplier-X,2026-06-08,7150
+WH-D,SSD,476.0,117,Supplier-X,2025-06-04,7070
+WH-A,Monitor,294.0,256,Supplier-X,2025-10-06,2200
+WH-E,Tablet,101.0,125,Supplier-B,2025-09-25,2400
+WH-A,Printer,468.0,173,Supplier-B,2024-12-17,2670
+WH-C,Tablet,168.0,50,Supplier-B,2025-11-13,2250
+WH-A,Mouse,410.0,171,Supplier-C,2025-05-28,800
+WH-D,Mouse,60.0,84,Supplier-C,2025-08-27,1470
+WH-E,Mobile,499.0,147,Supplier-A,2025-08-01,2300
+WH-C,Router,,226,Supplier-X,2024-11-29,1800
+WH-B,Mobile,318.0,102,Supplier-X,2024-07-26,1550
+WH-D,Tablet,307.0,69,Supplier-Y,2025-02-05,2370
+WH-B,Tablet,225.0,180,Supplier-Z,2026-05-06,2050
+WH-E,Printer,178.0,113,Supplier-Y,2024-08-18,3470
+WH-D,SSD,397.0,121,Supplier-C,2024-10-14,7220
+WH-B,Monitor,137.0,263,Supplier-B,2025-08-21,2500
+WH-B,Tablet,563.0,274,Supplier-B,2025-02-17,1900
+WH-D,SSD,534.0,138,Supplier-A,2025-04-28,7320
+WH-A,Printer,550.0,95,Supplier-Y,2025-11-10,2720
+WH-A,Mobile,458.0,162,Supplier-Y,2026-01-04,1400
+WH-B,Laptop,60.0,143,Supplier-Z,2025-09-06,2350
+WH-A,Mouse,71.0,60,Supplier-X,2026-01-26,650
+WH-C,Printer,106.0,202,Supplier-Y,2025-04-21,3320
+WH-A,Tablet,,205,Supplier-C,2025-08-01,1750
+WH-E,Laptop,69.0,203,Supplier-A,2026-04-27,2900
+WH-A,SSD,292.0,215,Supplier-Y,2025-01-12,6500
+WH-B,Printer,305.0,121,Supplier-Z,2025-04-11,3070
+WH-B,Monitor,152.0,274,Supplier-C,2025-05-27,2600
+WH-D,Mouse,215.0,187,Supplier-X,2025-01-12,1320
+WH-A,Router,49.0,227,Supplier-Y,2025-09-07,1300
+WH-C,Tablet,330.0,67,Supplier-A,2025-05-29,2450
+WH-D,Mouse,176.0,115,Supplier-C,2025-10-13,1470
+WH-A,Tablet,544.0,164,Supplier-A,2024-10-15,1850
+WH-E,Hard Disk,187.0,233,Supplier-C,2026-06-23,2000
+WH-A,Monitor,85.0,151,Supplier-Y,2025-07-03,2300
+WH-D,Mouse,532.0,168,Supplier-A,2025-12-02,1570
+WH-E,Mobile,108.0,251,Supplier-Z,2026-06-17,2250
+WH-D,Router,,142,Supplier-B,2024-09-22,1920
+WH-C,Monitor,269.0,121,Supplier-X,2026-02-27,2800
+WH-B,Router,191.0,115,Supplier-C,2025-01-30,1600
+WH-E,Mobile,,285,Supplier-B,2026-06-26,2100
+WH-E,Printer,49.0,249,Supplier-Y,2024-07-06,3470
+WH-A,Mobile,155.0,104,Supplier-B,2025-10-16,1350
+WH-B,Printer,510.0,234,Supplier-Z,2026-03-01,3070
+WH-E,Keyboard,214.0,292,Supplier-Y,2025-04-04,1650
+WH-E,Monitor,415.0,191,Supplier-Z,2026-03-24,3150
+WH-B,Mobile,176.0,115,Supplier-Y,2025-08-18,1650
+WH-B,Printer,419.0,92,Supplier-X,2024-11-02,2870
+WH-C,Monitor,148.0,294,Supplier-C,2026-01-21,2950
+WH-E,Keyboard,276.0,296,Supplier-C,2026-05-23,1700
+WH-A,Hard Disk,,185,Supplier-Z,2024-10-31,1300
+WH-B,Hard Disk,582.0,267,Supplier-X,2025-09-12,1350
+WH-A,Hard Disk,58.0,93,Supplier-B,2026-06-06,1150
+WH-E,Router,467.0,285,Supplier-C,2025-11-29,2100
+WH-C,Tablet,,284,Supplier-A,2024-10-06,2450
+WH-A,SSD,170.0,280,Supplier-B,2025-10-11,6450
+WH-D,Tablet,25.0,170,Supplier-C,2024-08-19,2420
+WH-B,Monitor,397.0,56,Supplier-A,2026-01-22,2700
+WH-A,Router,530.0,137,Supplier-Y,2024-12-16,1300
+WH-B,Tablet,438.0,69,Supplier-B,2025-06-26,1900
+WH-B,Printer,296.0,237,Supplier-Y,2026-04-20,2970
+WH-D,Hard Disk,427.0,245,Supplier-C,2025-01-11,1920
+WH-E,Router,181.0,285,Supplier-B,2024-09-22,2000
+WH-E,Keyboard,446.0,103,Supplier-C,2024-09-27,1700
+WH-A,Keyboard,410.0,192,Supplier-Y,2024-12-23,900
+WH-B,Laptop,136.0,290,Supplier-Z,2024-12-17,2350
+WH-C,Mobile,52.0,269,Supplier-C,2025-02-23,2050
+WH-A,Hard Disk,58.0,186,Supplier-Y,2026-03-06,1200
+WH-B,Keyboard,55.0,164,Supplier-Z,2025-01-28,1250
+WH-C,Laptop,396.0,134,Supplier-C,2026-01-17,2650
+WH-E,Printer,161.0,106,Supplier-Z,2024-09-15,3570
+WH-E,Tablet,114.0,189,Supplier-A,2026-02-08,2600
+WH-C,Tablet,202.0,216,Supplier-C,2026-02-21,2350
+WH-C,SSD,89.0,294,Supplier-Y,2026-05-29,7100
+WH-E,Printer,430.0,181,Supplier-A,2025-09-09,3620
+WH-B,Router,527.0,240,Supplier-B,2025-01-16,1500
+WH-C,Mobile,96.0,200,Supplier-B,2025-12-07,1950
+WH-D,Monitor,504.0,83,Supplier-B,2024-07-10,2920
+WH-A,Keyboard,521.0,126,Supplier-C,2025-11-04,950
+WH-A,Hard Disk,49.0,262,Supplier-C,2026-03-23,1250
+WH-E,Keyboard,402.0,86,Supplier-C,2025-06-24,1700
+WH-A,Router,502.0,128,Supplier-X,2024-10-02,1200
+WH-D,Hard Disk,401.0,274,Supplier-Z,2025-07-01,1970
+WH-C,Hard Disk,549.0,279,Supplier-C,2025-01-13,1850
+WH-B,Mobile,315.0,92,Supplier-X,2026-02-03,1550
+WH-A,Mouse,369.0,96,Supplier-Z,2025-08-11,850
+WH-B,SSD,,88,Supplier-Y,2026-06-27,6750
+WH-D,Hard Disk,108.0,163,Supplier-C,2024-08-01,1920
+WH-E,Hard Disk,128.0,122,Supplier-X,2026-04-13,1850
+WH-D,Printer,162.0,167,Supplier-C,2024-07-29,3440
+WH-D,Hard Disk,49.0,221,Supplier-B,2024-08-17,1820
+WH-C,Tablet,551.0,227,Supplier-A,2026-05-21,2450
+WH-E,Keyboard,76.0,106,Supplier-X,2025-07-17,1550
+WH-A,Keyboard,127.0,131,Supplier-X,2025-04-03,800
+WH-E,Laptop,295.0,298,Supplier-Y,2025-04-25,2750
+WH-B,Monitor,204.0,155,Supplier-B,2024-07-13,2500
+WH-B,Monitor,597.0,171,Supplier-Y,2025-04-25,2550
+WH-D,SSD,198.0,223,Supplier-X,2026-03-04,7070
+WH-B,Keyboard,552.0,61,Supplier-X,2026-03-18,1050
+WH-D,Tablet,,296,Supplier-A,2025-10-11,2520
+WH-C,Laptop,402.0,63,Supplier-A,2024-08-29,2750
+WH-B,Hard Disk,49.0,249,Supplier-A,2025-08-06,1600
+WH-A,Hard Disk,371.0,196,Supplier-C,2025-03-05,1250
+WH-B,Mouse,519.0,96,Supplier-C,2025-03-15,1050
+WH-A,Tablet,431.0,153,Supplier-Z,2025-04-30,1800
+WH-B,Tablet,366.0,73,Supplier-A,2024-09-06,2100
+WH-A,Mouse,188.0,77,Supplier-C,2025-01-26,800
+WH-D,Router,521.0,125,Supplier-B,2024-08-14,1920
+WH-A,Mobile,512.0,92,Supplier-Y,2025-02-05,1400
+WH-D,Mouse,,187,Supplier-B,2025-04-26,1370
+WH-D,Mouse,,114,Supplier-B,2025-01-25,1370
+WH-C,SSD,189.0,219,Supplier-X,2024-11-05,7000
+WH-D,Keyboard,514.0,230,Supplier-B,2024-08-10,1520
+WH-A,Monitor,237.0,274,Supplier-B,2025-05-28,2250
+WH-B,SSD,246.0,182,Supplier-C,2026-06-28,6800
+WH-D,Tablet,79.0,125,Supplier-Y,2026-02-18,2370
+WH-D,Router,223.0,238,Supplier-Y,2026-05-19,1970
+WH-C,Keyboard,475.0,215,Supplier-B,2026-01-18,1450
+WH-D,Monitor,119.0,173,Supplier-B,2026-05-18,2920
+WH-D,SSD,,256,Supplier-Y,2025-09-16,7170
+WH-C,Hard Disk,354.0,294,Supplier-B,2025-09-15,1750
+WH-C,Mobile,378.0,219,Supplier-B,2025-11-21,1950
+WH-C,Mouse,140.0,199,Supplier-Z,2025-02-23,1450
+WH-E,Printer,,273,Supplier-Z,2026-05-29,3570
+WH-A,Tablet,451.0,63,Supplier-Z,2024-12-06,1800
+WH-E,Tablet,325.0,283,Supplier-B,2024-12-06,2400
+WH-A,SSD,567.0,138,Supplier-Y,2024-07-26,6500
+WH-E,Hard Disk,329.0,259,Supplier-C,2025-10-10,2000
+WH-D,SSD,375.0,213,Supplier-C,2025-10-07,7220
+WH-A,Mobile,266.0,179,Supplier-A,2025-01-15,1550
+WH-D,Printer,474.0,225,Supplier-A,2024-11-07,3540
+WH-A,Laptop,305.0,68,Supplier-Z,2026-05-11,2100
+WH-B,Router,174.0,52,Supplier-C,2025-03-16,1600
+WH-D,SSD,547.0,88,Supplier-A,2024-08-13,7320
+WH-A,Mouse,251.0,167,Supplier-A,2025-11-18,900
+WH-C,Router,,252,Supplier-C,2025-06-23,1950
+WH-B,Router,,180,Supplier-B,2026-06-01,1500
+WH-D,Printer,497.0,167,Supplier-Z,2024-12-05,3490
+WH-B,Monitor,303.0,239,Supplier-C,2026-03-30,2600
+WH-C,SSD,373.0,68,Supplier-Y,2025-12-16,7100
+WH-B,Mobile,231.0,144,Supplier-Z,2025-07-08,1750
+WH-D,Monitor,440.0,91,Supplier-B,2025-08-13,2920
+WH-D,Keyboard,438.0,67,Supplier-C,2026-03-23,1620
+WH-E,Router,276.0,99,Supplier-Y,2025-03-24,2050
+WH-E,Hard Disk,107.0,187,Supplier-A,2026-03-19,2100
+WH-B,Laptop,538.0,292,Supplier-X,2025-04-14,2150
+WH-A,Tablet,93.0,118,Supplier-X,2025-03-15,1600
+WH-A,Tablet,315.0,155,Supplier-Z,2025-10-01,1800
+WH-D,Monitor,343.0,229,Supplier-C,2025-09-25,3020
+WH-C,Hard Disk,455.0,255,Supplier-C,2024-10-21,1850
+WH-B,Mouse,221.0,189,Supplier-B,2025-07-23,950
+WH-B,Tablet,216.0,101,Supplier-X,2024-07-29,1850
+WH-C,Tablet,487.0,152,Supplier-X,2025-06-13,2200
+WH-C,Mouse,451.0,121,Supplier-A,2026-01-22,1500
+WH-E,Mobile,390.0,66,Supplier-C,2024-10-31,2200
+WH-C,Keyboard,120.0,269,Supplier-A,2024-11-29,1650
+WH-D,Laptop,40.0,263,Supplier-Y,2026-07-02,2670
+WH-B,SSD,592.0,166,Supplier-A,2025-03-05,6900
+WH-D,Mobile,520.0,102,Supplier-C,2024-08-21,2120
+WH-B,Router,122.0,117,Supplier-Z,2025-09-28,1650
+WH-C,Tablet,31.0,53,Supplier-X,2025-04-08,2200
+WH-B,Router,444.0,233,Supplier-Y,2024-12-26,1550
+WH-C,SSD,252.0,298,Supplier-A,2025-01-27,7250
+WH-D,Monitor,268.0,201,Supplier-X,2025-12-21,2870
+WH-E,Hard Disk,,208,Supplier-X,2024-09-18,1850
+WH-C,Keyboard,259.0,270,Supplier-C,2025-01-26,1550
+WH-C,Router,157.0,189,Supplier-C,2025-05-29,1950
+WH-A,Mobile,419.0,208,Supplier-Z,2024-10-12,1500
+WH-D,Laptop,397.0,187,Supplier-Z,2024-07-07,2770
+WH-A,Mouse,96.0,277,Supplier-Y,2025-11-15,750
+WH-D,Router,584.0,248,Supplier-Z,2026-05-28,2070
+WH-E,Hard Disk,366.0,300,Supplier-Y,2026-06-04,1950
+WH-E,Keyboard,390.0,208,Supplier-C,2026-01-28,1700
+WH-D,Hard Disk,,141,Supplier-B,2024-07-09,1820
+WH-A,Mobile,,211,Supplier-C,2026-03-25,1450
+WH-E,Mouse,387.0,147,Supplier-Z,2025-05-26,1600
+WH-B,Mouse,110.0,92,Supplier-Z,2025-03-16,1100
+WH-D,Keyboard,373.0,243,Supplier-Y,2024-09-09,1570
+WH-A,Mouse,,85,Supplier-Y,2025-11-07,750
+WH-E,Router,358.0,226,Supplier-Y,2025-02-12,2050
+WH-D,Mouse,106.0,113,Supplier-Y,2025-04-17,1420
+WH-B,Hard Disk,528.0,260,Supplier-A,2026-03-26,1600
+WH-A,Keyboard,556.0,166,Supplier-Z,2026-07-05,1000
+WH-A,Tablet,110.0,287,Supplier-A,2025-03-19,1850
+WH-C,Mobile,195.0,55,Supplier-A,2024-10-12,2150
+WH-D,Mouse,96.0,165,Supplier-Z,2025-05-21,1520
+WH-B,Hard Disk,512.0,273,Supplier-Y,2024-12-30,1450
+WH-D,Tablet,402.0,241,Supplier-A,2024-12-21,2520
+WH-D,Hard Disk,,124,Supplier-A,2024-10-23,2020
+WH-E,SSD,341.0,265,Supplier-Z,2025-10-22,7350
+WH-A,Monitor,,106,Supplier-B,2025-04-02,2250
+WH-A,Monitor,583.0,152,Supplier-B,2025-05-23,2250
+WH-D,Router,115.0,212,Supplier-X,2026-02-23,1870
+WH-D,SSD,592.0,173,Supplier-B,2026-01-04,7120
+WH-D,Mobile,115.0,72,Supplier-X,2026-06-29,1970
+WH-C,Hard Disk,121.0,65,Supplier-B,2026-06-15,1750
+WH-E,Printer,459.0,282,Supplier-A,2026-05-23,3620
+WH-D,Monitor,410.0,80,Supplier-B,2025-03-02,2920
+WH-D,Mobile,,91,Supplier-C,2025-06-08,2120
+WH-A,Printer,278.0,147,Supplier-A,2025-09-20,2870
+WH-E,Mobile,514.0,202,Supplier-Z,2025-08-04,2250
+WH-B,Mouse,100.0,279,Supplier-B,2025-05-13,950
+WH-B,Laptop,81.0,179,Supplier-Y,2025-03-06,2250
+WH-C,Keyboard,456.0,164,Supplier-Z,2025-07-07,1600
+WH-E,Laptop,314.0,67,Supplier-B,2025-08-19,2700
+WH-A,Printer,490.0,212,Supplier-Z,2025-03-13,2820
+WH-B,Router,519.0,60,Supplier-Z,2026-05-05,1650
+WH-E,Tablet,83.0,259,Supplier-C,2024-11-19,2500
+WH-A,Printer,74.0,68,Supplier-A,2025-11-26,2870
+WH-B,Tablet,407.0,238,Supplier-C,2024-10-18,2000
+WH-B,Printer,322.0,141,Supplier-B,2026-02-08,2920
+WH-D,Tablet,342.0,124,Supplier-Y,2026-05-20,2370
+WH-D,Router,392.0,183,Supplier-B,2026-01-09,1920
+WH-D,Hard Disk,479.0,242,Supplier-Z,2025-03-24,1970
+WH-B,Printer,426.0,289,Supplier-Y,2026-03-06,2970
+WH-E,Mouse,521.0,267,Supplier-X,2025-12-18,1400
+WH-B,Mobile,366.0,250,Supplier-A,2025-04-27,1800
+WH-B,Mobile,199.0,133,Supplier-Z,2024-09-29,1750
+WH-B,SSD,82.0,155,Supplier-Y,2024-08-26,6750
+WH-B,Keyboard,367.0,245,Supplier-C,2025-02-28,1200
+WH-D,SSD,243.0,243,Supplier-A,2024-08-19,7320
+WH-C,Router,362.0,74,Supplier-C,2025-07-17,1950
+WH-B,SSD,,63,Supplier-B,2024-11-13,6700
+WH-E,Router,489.0,243,Supplier-Y,2026-05-20,2050
+WH-D,SSD,276.0,124,Supplier-X,2025-10-10,7070
+WH-E,Router,427.0,128,Supplier-Z,2024-12-18,2150
+WH-C,Keyboard,589.0,229,Supplier-B,2026-04-04,1450
+WH-E,Laptop,597.0,229,Supplier-C,2026-03-31,2800
+WH-A,Laptop,363.0,195,Supplier-Z,2025-02-11,2100
+WH-B,Hard Disk,126.0,237,Supplier-Y,2024-07-23,1450
+WH-A,Router,529.0,130,Supplier-A,2025-12-02,1450
+WH-A,Monitor,236.0,236,Supplier-Y,2026-02-06,2300
+WH-D,Monitor,291.0,238,Supplier-Y,2025-02-21,2970
+WH-A,Monitor,41.0,213,Supplier-C,2025-11-02,2350
+WH-D,Laptop,153.0,284,Supplier-Z,2025-02-27,2770
+WH-B,Mobile,,285,Supplier-X,2025-05-03,1550
+WH-D,Mobile,66.0,267,Supplier-X,2025-11-25,1970
+WH-B,Mouse,328.0,63,Supplier-B,2025-12-21,950
+WH-A,SSD,53.0,172,Supplier-A,2025-05-26,6650
+WH-A,Printer,239.0,159,Supplier-C,2025-01-13,2770
+WH-B,Router,,203,Supplier-B,2025-02-01,1500
+WH-B,Router,471.0,78,Supplier-A,2025-07-07,1700
+WH-C,SSD,290.0,223,Supplier-Z,2025-07-17,7200
+WH-D,Mobile,504.0,220,Supplier-B,2025-04-25,2020
+WH-B,Hard Disk,429.0,194,Supplier-X,2025-09-08,1350
+WH-C,Mouse,171.0,295,Supplier-C,2025-01-26,1400
+WH-A,Tablet,58.0,167,Supplier-X,2025-12-27,1600
+WH-E,Mouse,327.0,156,Supplier-C,2025-01-03,1550
+WH-D,Mouse,357.0,147,Supplier-B,2024-11-04,1370
+WH-C,Mobile,73.0,54,Supplier-A,2025-01-11,2150
+WH-D,Monitor,548.0,239,Supplier-A,2026-01-06,3120
+WH-D,Hard Disk,460.0,125,Supplier-B,2026-06-21,1820
+WH-D,Tablet,166.0,262,Supplier-Y,2025-06-11,2370
+WH-D,Mouse,117.0,299,Supplier-A,2026-03-26,1570
+WH-A,Tablet,,220,Supplier-C,2025-09-28,1750
+WH-E,Laptop,361.0,59,Supplier-X,2024-09-19,2650
+WH-A,Tablet,591.0,109,Supplier-A,2024-07-20,1850
+WH-C,Tablet,511.0,237,Supplier-C,2026-01-14,2350
+WH-A,Mobile,584.0,216,Supplier-C,2025-08-20,1450
+WH-D,Hard Disk,413.0,275,Supplier-B,2024-08-09,1820
+WH-A,Router,236.0,292,Supplier-Y,2025-06-07,1300
+WH-A,Router,224.0,125,Supplier-X,2024-12-18,1200
+WH-B,Tablet,420.0,50,Supplier-C,2025-11-29,2000
+WH-C,Keyboard,287.0,235,Supplier-B,2025-07-18,1450
+WH-B,Mobile,424.0,249,Supplier-Z,2025-05-27,1750
+WH-B,Tablet,78.0,245,Supplier-B,2026-06-20,1900
+WH-C,Mouse,428.0,270,Supplier-C,2025-06-18,1400
+WH-D,Tablet,255.0,147,Supplier-Y,2026-02-15,2370
+WH-D,Monitor,555.0,101,Supplier-B,2024-07-05,2920
+WH-D,SSD,,65,Supplier-A,2026-03-08,7320
+WH-E,Monitor,307.0,279,Supplier-X,2024-08-04,2950
+WH-C,Keyboard,173.0,268,Supplier-C,2025-12-08,1550
+WH-E,Mouse,521.0,262,Supplier-B,2025-08-28,1450
+WH-A,Tablet,509.0,103,Supplier-B,2024-11-11,1650
+WH-B,Laptop,351.0,252,Supplier-Z,2025-10-21,2350
+WH-C,Mouse,30.0,116,Supplier-A,2025-12-01,1500
+WH-D,Keyboard,549.0,235,Supplier-B,2026-03-01,1520
+WH-A,Tablet,359.0,177,Supplier-X,2025-03-07,1600
+WH-A,SSD,350.0,127,Supplier-Y,2024-08-21,6500
+WH-D,Printer,510.0,164,Supplier-X,2025-08-19,3290
+WH-E,Keyboard,,175,Supplier-Y,2025-06-27,1650
+WH-B,Router,395.0,259,Supplier-Z,2025-11-21,1650
+WH-B,Tablet,29.0,88,Supplier-C,2025-07-19,2000
+WH-C,SSD,406.0,114,Supplier-B,2026-05-01,7050
+WH-A,Laptop,430.0,83,Supplier-Y,2026-03-20,2000
+WH-E,Mouse,67.0,170,Supplier-A,2025-06-19,1650
+WH-B,Tablet,61.0,181,Supplier-C,2025-01-10,2000
+WH-C,Keyboard,467.0,84,Supplier-Z,2024-12-28,1600
+WH-A,Laptop,,211,Supplier-B,2026-04-11,1950
+WH-E,Tablet,371.0,268,Supplier-B,2025-06-13,2400
+WH-C,Monitor,424.0,275,Supplier-A,2025-06-02,3050
+WH-E,Printer,502.0,189,Supplier-Z,2024-08-06,3570
+WH-A,Monitor,313.0,242,Supplier-Z,2025-11-06,2400
+WH-B,Hard Disk,20.0,127,Supplier-B,2024-09-04,1400
+WH-B,Tablet,130.0,173,Supplier-C,2025-04-12,2000
+WH-D,Hard Disk,284.0,139,Supplier-B,2025-12-20,1820
+WH-C,Hard Disk,501.0,245,Supplier-X,2025-10-02,1700
+WH-D,Mobile,560.0,221,Supplier-Z,2025-02-01,2170
+WH-C,Laptop,245.0,191,Supplier-B,2025-02-06,2550
+WH-B,Printer,273.0,238,Supplier-X,2026-04-23,2870
+WH-B,Mobile,177.0,292,Supplier-A,2026-02-12,1800
+WH-D,Router,443.0,157,Supplier-C,2024-08-27,2020
+WH-E,Laptop,25.0,149,Supplier-Y,2025-05-17,2750
+WH-C,Hard Disk,407.0,195,Supplier-B,2026-02-08,1750
+WH-E,Hard Disk,57.0,246,Supplier-A,2026-06-09,2100
+WH-D,SSD,556.0,56,Supplier-X,2026-06-19,7070
+WH-C,Printer,521.0,84,Supplier-C,2025-04-25,3370
+WH-D,Tablet,592.0,220,Supplier-A,2025-04-14,2520
+WH-D,Mobile,475.0,201,Supplier-Y,2024-09-01,2070
+WH-A,Printer,453.0,273,Supplier-Z,2024-09-29,2820
+WH-E,Hard Disk,127.0,85,Supplier-C,2025-09-03,2000
+WH-D,Keyboard,265.0,63,Supplier-C,2024-10-28,1620
+WH-C,Printer,,215,Supplier-B,2024-08-08,3270
+WH-B,Tablet,575.0,189,Supplier-C,2024-12-10,2000
+WH-A,Router,84.0,220,Supplier-C,2025-01-24,1350
+WH-B,Mobile,185.0,108,Supplier-C,2024-08-23,1700
+WH-B,Printer,,143,Supplier-B,2025-06-22,2920
+WH-C,Router,239.0,115,Supplier-C,2024-08-19,1950
+WH-A,Laptop,,87,Supplier-A,2026-05-24,2150
+WH-A,SSD,507.0,154,Supplier-Y,2025-01-26,6500
+WH-B,SSD,189.0,268,Supplier-A,2025-11-28,6900
+WH-E,Keyboard,503.0,278,Supplier-B,2025-09-03,1600
+WH-C,Mobile,387.0,144,Supplier-C,2024-09-25,2050
+WH-A,Tablet,179.0,158,Supplier-C,2025-02-03,1750
+WH-A,SSD,432.0,190,Supplier-Y,2025-02-10,6500
+WH-C,Tablet,,65,Supplier-Z,2026-04-03,2400
+WH-B,Printer,549.0,84,Supplier-A,2024-12-22,3120
+WH-D,Router,386.0,154,Supplier-Z,2024-11-21,2070
+WH-A,Mobile,,264,Supplier-C,2025-10-26,1450
+WH-E,Mobile,441.0,296,Supplier-Y,2025-02-04,2150
+WH-D,Keyboard,182.0,244,Supplier-Y,2025-12-28,1570
+WH-A,Hard Disk,568.0,251,Supplier-X,2025-08-06,1100
+WH-D,Keyboard,553.0,265,Supplier-Y,2025-04-06,1570
+WH-D,Keyboard,281.0,117,Supplier-B,2024-10-27,1520
+WH-D,Printer,,148,Supplier-A,2025-09-08,3540
+WH-A,Keyboard,213.0,182,Supplier-Y,2025-09-07,900
+WH-C,Keyboard,199.0,222,Supplier-B,2026-03-05,1450
+WH-B,SSD,234.0,293,Supplier-X,2025-10-23,6650
+WH-C,Router,589.0,158,Supplier-Z,2024-12-19,2000
+WH-B,Keyboard,236.0,273,Supplier-B,2024-12-23,1100
+WH-A,Keyboard,422.0,100,Supplier-B,2025-03-03,850
+WH-E,Keyboard,600.0,199,Supplier-C,2025-06-13,1700
+WH-B,Monitor,160.0,114,Supplier-B,2025-11-14,2500
+WH-D,SSD,297.0,140,Supplier-Z,2025-01-28,7270
+WH-E,Hard Disk,185.0,89,Supplier-Y,2026-01-12,1950
+WH-D,Tablet,105.0,172,Supplier-Z,2024-10-20,2470
+WH-A,Mobile,149.0,205,Supplier-Z,2025-08-27,1500
+WH-E,Hard Disk,318.0,271,Supplier-Z,2025-04-02,2050
+WH-E,Laptop,331.0,252,Supplier-X,2025-10-28,2650
+WH-C,Mobile,47.0,199,Supplier-A,2024-07-16,2150
+WH-D,Monitor,322.0,85,Supplier-Y,2025-06-20,2970
+WH-B,Hard Disk,552.0,88,Supplier-B,2025-08-30,1400
+WH-D,Hard Disk,424.0,171,Supplier-Y,2024-09-27,1870
+WH-C,Tablet,100.0,60,Supplier-Z,2026-06-05,2400
+WH-E,Tablet,125.0,90,Supplier-Z,2025-04-05,2550
+WH-C,Mouse,510.0,292,Supplier-B,2026-04-13,1300
+WH-B,Keyboard,34.0,142,Supplier-Y,2025-09-18,1150
+WH-C,Hard Disk,290.0,233,Supplier-Y,2025-06-26,1800
+WH-A,Printer,77.0,146,Supplier-A,2025-06-25,2870
+WH-B,Hard Disk,321.0,146,Supplier-Y,2024-07-23,1450
+WH-D,Mouse,284.0,174,Supplier-Y,2024-12-29,1420
+WH-B,Printer,302.0,53,Supplier-Z,2025-05-28,3070
+WH-B,Printer,222.0,57,Supplier-A,2024-09-26,3120
+WH-E,Mobile,356.0,131,Supplier-Y,2026-05-28,2150
+WH-D,Hard Disk,523.0,119,Supplier-A,2024-08-13,2020
+WH-A,Printer,,61,Supplier-Z,2024-10-09,2820
+WH-A,Mobile,269.0,138,Supplier-C,2026-05-23,1450
+WH-D,Keyboard,352.0,226,Supplier-C,2024-09-10,1620
+WH-C,SSD,60.0,176,Supplier-B,2025-08-27,7050
+WH-D,Mouse,75.0,155,Supplier-A,2026-03-22,1570
+WH-C,Keyboard,191.0,176,Supplier-Z,2026-05-18,1600
+WH-E,Router,253.0,297,Supplier-Z,2024-09-15,2150
+WH-B,Mobile,,300,Supplier-A,2025-01-16,1800
+WH-E,SSD,463.0,229,Supplier-C,2026-03-15,7300
+WH-A,Mouse,261.0,163,Supplier-Y,2026-06-13,750
+WH-E,SSD,138.0,213,Supplier-C,2024-08-30,7300
+WH-B,Printer,272.0,291,Supplier-X,2025-04-26,2870
+WH-E,Printer,410.0,290,Supplier-Y,2025-08-28,3470
+WH-B,Mobile,,268,Supplier-Y,2025-05-30,1650
+WH-A,Hard Disk,112.0,176,Supplier-C,2025-06-03,1250
+WH-D,Laptop,92.0,199,Supplier-C,2025-08-02,2720
+WH-C,Tablet,,212,Supplier-Z,2025-05-13,2400
+WH-B,Mouse,471.0,292,Supplier-C,2025-10-04,1050
+WH-C,Printer,29.0,55,Supplier-B,2026-02-01,3270
+WH-A,Tablet,103.0,243,Supplier-Y,2025-09-18,1700
+WH-D,Mobile,459.0,207,Supplier-Y,2025-02-19,2070
+WH-A,SSD,69.0,264,Supplier-X,2025-12-07,6400
+WH-D,Laptop,169.0,271,Supplier-B,2025-09-17,2620
+WH-B,Hard Disk,,68,Supplier-C,2026-04-17,1500
+WH-C,SSD,323.0,164,Supplier-B,2025-05-31,7050
+WH-B,Tablet,141.0,90,Supplier-Y,2026-02-19,1950
+WH-A,Tablet,597.0,176,Supplier-C,2026-05-13,1750
+WH-A,Laptop,393.0,251,Supplier-Z,2025-03-26,2100
+WH-D,Mobile,348.0,139,Supplier-A,2026-06-02,2220
+WH-D,Keyboard,580.0,262,Supplier-Z,2026-01-31,1670
+WH-E,Monitor,,223,Supplier-X,2024-12-01,2950
+WH-D,Tablet,316.0,296,Supplier-C,2025-06-23,2420
+WH-D,Tablet,28.0,94,Supplier-C,2026-01-28,2420
+WH-C,Laptop,427.0,200,Supplier-Y,2024-08-30,2600
+WH-A,Hard Disk,417.0,283,Supplier-Y,2025-06-30,1200
+WH-A,Mobile,,155,Supplier-A,2025-11-08,1550
+WH-D,Printer,245.0,241,Supplier-B,2025-11-20,3340
+WH-B,Router,124.0,108,Supplier-X,2025-12-23,1450
+WH-D,Mouse,300.0,139,Supplier-A,2026-05-07,1570
+WH-A,SSD,50.0,201,Supplier-X,2024-09-29,6400
+WH-A,Printer,168.0,123,Supplier-B,2025-12-14,2670
+WH-C,Router,,99,Supplier-C,2026-02-06,1950
+WH-A,Printer,259.0,128,Supplier-C,2024-07-12,2770
+WH-C,Laptop,,161,Supplier-C,2024-08-09,2650
+WH-C,Mouse,164.0,169,Supplier-X,2024-11-04,1250
+WH-D,SSD,85.0,80,Supplier-A,2025-10-05,7320
+WH-E,Hard Disk,483.0,233,Supplier-A,2026-04-01,2100
+WH-E,Mobile,383.0,246,Supplier-X,2026-03-31,2050
+WH-D,Mobile,572.0,296,Supplier-C,2026-06-19,2120
+WH-A,Router,340.0,284,Supplier-Z,2025-10-01,1400
+WH-D,Hard Disk,569.0,222,Supplier-C,2026-06-22,1920
+WH-D,Printer,413.0,197,Supplier-C,2025-02-05,3440
+WH-C,Mobile,327.0,188,Supplier-B,2025-07-02,1950
+WH-A,Mouse,,217,Supplier-Y,2026-04-12,750
+WH-A,Laptop,452.0,137,Supplier-C,2026-05-21,2050
+WH-D,Router,584.0,182,Supplier-C,2025-11-18,2020
+WH-A,Mobile,,106,Supplier-C,2026-02-08,1450
+WH-A,Keyboard,539.0,129,Supplier-B,2026-06-26,850
+WH-E,Tablet,493.0,236,Supplier-B,2025-09-01,2400
+WH-E,Mouse,366.0,61,Supplier-Y,2025-12-06,1500
+WH-D,Laptop,331.0,101,Supplier-Z,2024-11-02,2770
+WH-E,Router,591.0,295,Supplier-Y,2025-07-13,2050
+WH-D,Router,313.0,64,Supplier-X,2026-06-26,1870
+WH-E,Mouse,472.0,243,Supplier-B,2024-10-20,1450
+WH-C,Mouse,,93,Supplier-A,2025-10-23,1500
+WH-A,Mobile,,218,Supplier-B,2026-02-10,1350
+WH-D,Mouse,385.0,231,Supplier-Y,2024-12-25,1420
+WH-B,Printer,465.0,102,Supplier-X,2026-03-21,2870
+WH-A,Keyboard,177.0,147,Supplier-Y,2024-12-17,900
+WH-A,Laptop,569.0,215,Supplier-Z,2025-07-05,2100
+WH-D,Tablet,177.0,127,Supplier-C,2025-11-24,2420
+WH-C,Monitor,372.0,239,Supplier-C,2025-06-30,2950
+WH-C,SSD,251.0,79,Supplier-Z,2026-05-18,7200
+WH-A,Mouse,411.0,275,Supplier-Z,2026-06-07,850
+WH-E,SSD,153.0,73,Supplier-X,2025-03-22,7150
+WH-D,Mobile,,74,Supplier-C,2024-09-29,2120
+WH-A,Printer,506.0,226,Supplier-Z,2026-06-03,2820
+WH-A,Mouse,461.0,125,Supplier-X,2026-05-04,650
+WH-E,SSD,563.0,296,Supplier-Y,2024-12-06,7250
+WH-A,Keyboard,,148,Supplier-X,2026-01-14,800
+WH-A,Keyboard,203.0,194,Supplier-B,2026-07-01,850
+WH-E,Hard Disk,444.0,250,Supplier-B,2025-06-08,1900
+WH-C,Printer,,52,Supplier-X,2025-02-22,3220
+WH-C,Mobile,468.0,144,Supplier-Y,2025-01-26,2000
+WH-B,Hard Disk,,119,Supplier-A,2026-02-08,1600
+WH-A,Mouse,189.0,71,Supplier-Z,2025-09-13,850
+WH-A,Mouse,300.0,230,Supplier-X,2025-01-22,650
+WH-B,Laptop,,221,Supplier-X,2024-12-15,2150
+WH-C,Router,472.0,158,Supplier-C,2024-09-04,1950
+WH-A,Tablet,452.0,90,Supplier-C,2025-01-01,1750
+WH-D,Mouse,,241,Supplier-Z,2025-01-05,1520
+WH-D,Router,380.0,93,Supplier-A,2025-01-23,2120
+WH-E,Router,466.0,96,Supplier-Z,2025-06-02,2150
+WH-E,Monitor,174.0,204,Supplier-Z,2026-01-22,3150
+WH-A,Router,,126,Supplier-A,2024-09-08,1450
+WH-B,Tablet,266.0,206,Supplier-X,2025-12-15,1850
+WH-E,Printer,565.0,294,Supplier-Z,2025-05-16,3570
+WH-A,Mouse,60.0,231,Supplier-A,2025-11-26,900
+WH-A,Keyboard,156.0,207,Supplier-Z,2025-02-20,1000
+WH-E,SSD,162.0,225,Supplier-Y,2024-08-27,7250
+WH-C,Printer,440.0,234,Supplier-C,2025-12-10,3370
+WH-B,Mobile,478.0,163,Supplier-A,2025-08-09,1800
+WH-A,Mobile,547.0,202,Supplier-A,2024-07-29,1550
+WH-B,Laptop,214.0,134,Supplier-X,2025-12-14,2150
+WH-A,SSD,436.0,71,Supplier-Y,2024-07-29,6500
+WH-C,Keyboard,,74,Supplier-Y,2025-08-25,1500
+WH-C,Router,,201,Supplier-B,2026-01-10,1850
+WH-D,Monitor,,162,Supplier-Z,2024-12-14,3070
+WH-E,Mouse,431.0,100,Supplier-Y,2025-09-05,1500
+WH-D,Router,504.0,222,Supplier-A,2025-01-01,2120
+WH-D,SSD,283.0,291,Supplier-C,2026-07-01,7220
+WH-B,Mobile,390.0,249,Supplier-Y,2025-05-17,1650
+WH-D,Hard Disk,444.0,236,Supplier-C,2024-11-20,1920
+WH-C,SSD,460.0,54,Supplier-Z,2025-05-08,7200
+WH-A,Mouse,90.0,159,Supplier-B,2024-12-22,700
+WH-A,Tablet,61.0,127,Supplier-C,2026-06-23,1750
+WH-E,Router,,243,Supplier-X,2024-12-21,1950
+WH-E,Monitor,231.0,215,Supplier-Y,2026-07-05,3050
+WH-B,Tablet,360.0,56,Supplier-A,2025-11-05,2100
+WH-D,Monitor,418.0,161,Supplier-Z,2024-08-29,3070
+WH-E,Router,350.0,286,Supplier-C,2025-10-19,2100
+WH-D,Router,162.0,51,Supplier-B,2025-11-12,1920
+WH-B,Laptop,242.0,162,Supplier-A,2024-11-26,2400
+WH-B,Mobile,497.0,154,Supplier-A,2026-01-01,1800

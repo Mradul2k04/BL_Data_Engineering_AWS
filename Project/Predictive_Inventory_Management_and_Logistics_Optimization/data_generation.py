@@ -94,7 +94,7 @@ for _ in range(num_records):
         end_date="now"
     )
 
-  # Transport Cost
+    # Transport Cost
     transport_cost = (
         warehouse_cost[warehouse]
         + product_cost[product]
@@ -130,7 +130,7 @@ df = pd.DataFrame(
 df = df.sample(frac=1, random_state=42).reset_index(drop=True)
 
 # Save CSV
-df.to_csv("Project\Predictive_Inventory_Management_and_Logistics_Optimization\predictive_inventory_dataset.csv",index=False)
+df.to_csv("predictive_inventory_dataset.csv", index=False)
 
 
 print("Dataset Generated Successfully!")
